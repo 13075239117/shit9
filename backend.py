@@ -1,3 +1,4 @@
+import json
 import requests
 from fastapi import FastAPI
 from pydantic import BaseModel
@@ -36,14 +37,25 @@ class RepositoryResponse(BaseModel):
 
 
 # 搜索 GitHub 仓库函数
-def search_github_repositories(keyword: str):
-    url = f"https://api.github.com/search/repositories?q={keyword}&per_page=200"  # 可调整 per_page 返回更多结果
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.json()["items"]
-    else:
-        print("Error:", response.status_code)
-        return []
+def search_github_repositories(keyword: str, max_results=500):
+    results = []
+    page = 1
+
+    while len(results) < max_results:
+        url = f"https://api.github.com/search/repositories?q={keyword}&per_page=100&page={page}"
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            items = response.json().get("items", [])
+            if not items:  # 如果没有更多结果，则停止分页
+                break
+            results.extend(items)
+            page += 1
+        else:
+            print("Error:", response.status_code)
+            break
+
+    return results[:max_results]  # 限制返回最大结果数
 
 
 # 格式化 GitHub 仓库数据
@@ -67,21 +79,14 @@ def format_repositories(repositories):
 async def search_repositories(keyword: str):
     # 使用关键字搜索仓库
     repositories = search_github_repositories(keyword)
-
+    with open("test.json", "w", encoding="utf-8") as f:
+        json.dump(repositories, f, ensure_ascii=False, indent=4)
     if repositories:
         # 格式化数据并返回
         formatted_data = format_repositories(repositories)
         return formatted_data  # 返回一个包含单个 RepositoryResponse 的数组
     else:
-        return [
-            RepositoryResponse(
-                id=1,
-                name="No results found",
-                type="Folder",
-                path="",
-                children=[],
-            )
-        ]
+        return []
 
 
 # 启动应用的命令

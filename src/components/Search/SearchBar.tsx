@@ -12,7 +12,7 @@ interface SearchBarProps {
 const SearchBar: React.FC<SearchBarProps> = ({ onSelect, onSearch }) => {
   const [query, setQuery] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const debouncedQuery = useDebounce(query, 300);
+  const debouncedQuery = useDebounce(query, 1000);
   const searchRef = useRef<HTMLDivElement>(null);
 
   const handleSearch = useCallback(async (searchQuery: string) => {
