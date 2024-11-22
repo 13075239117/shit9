@@ -8,7 +8,9 @@ import { fetchFiles, FileItem, SearchResult } from '../../api/files';
 import { setSelectedFolder } from '../../store/slices/filesSlice';
 import { setUser } from '../../store/slices/authSlice';
 import type { RootState } from '../../store/store';
+import DownloadModal from '../Modals/DownloadModal';
 import QRCodeLoginModal from '../Modals/QRCodeLoginModal';
+
 import FileGridSkeleton from './FileGridSkeleton';
 
 const FileItemComponent: React.FC<{ item: FileItem | SearchResult; onClick: () => void }> = React.memo(({ item, onClick }) => {
@@ -130,11 +132,11 @@ const FileGrid: React.FC<FileGridProps> = React.memo(({ searchResults, searchQue
         </AnimatePresence>
       </div>
 
-      <QRCodeLoginModal
+      <DownloadModal
         file={selectedFile}
         isOpen={!!selectedFile}
         onClose={() => setSelectedFile(null)}
-        onSuccess={handleLoginSuccess}
+        // onSuccess={handleLoginSuccess}
       />
     </div>
   );

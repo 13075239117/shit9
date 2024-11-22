@@ -105,7 +105,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch }) => {
             ease: "easeInOut"
           }}
         >
-          1900套计算机专业毕设项目代码资料大合集
+          全网最全计算机专业毕设项目代码资料大合集
         </motion.h1>
         
         <motion.div 
