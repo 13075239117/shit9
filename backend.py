@@ -91,5 +91,5 @@ async def search_repositories(keyword: str):
 
 # 启动应用的命令
 # uvicorn app_name:app --reload
-if __name__ == "__main__":
-    uvicorn.run("backend:app", host="127.0.0.1", port=8889, reload=True)
+#if __name__ == "__main__":
+#    uvicorn.run("backend:app", host="127.0.0.1", port=8889, reload=True)
