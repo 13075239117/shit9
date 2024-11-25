@@ -9,6 +9,7 @@
             "name": "提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）",
             "type": "File",
             "path": "https://github.com/Heeexy/SpringBoot-Shiro-Vue",
+            "download_link": "https://api.github.com/repos/Heeexy/SpringBoot-Shiro-Vue/zipball/master",
             "children": []
         },
         {
@@ -16,6 +17,7 @@
             "name": "A example demo base SpringBooot with vueJS2.x + webpack2.x as Java full stack web practice",
             "type": "File",
             "path": "https://github.com/boylegu/SpringBoot-vue",
+            "download_link": "https://api.github.com/repos/boylegu/SpringBoot-vue/zipball/master",
             "children": []
         },
         {
@@ -23,6 +25,7 @@
             "name": "Example project showing how to build a Spring Boot App providing a GUI with Vue.js",
             "type": "File",
             "path": "https://github.com/jonashackt/spring-boot-vuejs",
+            "download_link": "https://api.github.com/repos/jonashackt/spring-boot-vuejs/zipball/master",
             "children": []
         },
         {
@@ -30,6 +33,7 @@
             "name": "在线考试系统，springboot+vue前后端分离的一个项目.",
             "type": "File",
             "path": "https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam",
+            "download_link": "https://api.github.com/repos/YXJ2018/SpringBoot-Vue-OnlineExam/zipball/master",
             "children": []
         },
         {
@@ -37,6 +41,7 @@
             "name": "基于Vue+SpringBoot构建的博客项目",
             "type": "File",
             "path": "https://github.com/shimh-develop/blog-vue-springboot",
+            "download_link": "https://api.github.com/repos/shimh-develop/blog-vue-springboot/zipball/master",
             "children": []
         },
         {
@@ -44,13 +49,7 @@
             "name": ":tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
             "type": "File",
             "path": "https://github.com/yangzongzhuan/RuoYi-Vue3",
-            "children": []
-        },
-        {
-            "id": 90016344,
-            "name": "cloud-vue是一套基于springcloud + mybatis + vue全家桶（Vue2.x + Vue-router2.x + Vuex）的前后端分离框架. 使用Maven对项目进行模块化管理，提高项目的易开发性、扩展性。 系统包括分布式配置、eureka注册中心、服务中心、zipkin分布式跟踪等。 每个模块服务多系统部署，注册到同一个eureka集群服务注册中心，实现集群部署。",
-            "type": "File",
-            "path": "https://github.com/OptionalDay/spring-cloud-vue",
+            "download_link": "https://api.github.com/repos/yangzongzhuan/RuoYi-Vue3/zipball/master",
             "children": []
         },
         {
@@ -58,6 +57,15 @@
             "name": "eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统",
             "type": "File",
             "path": "https://github.com/elunez/eladmin-web",
+            "download_link": "https://api.github.com/repos/elunez/eladmin-web/zipball/master",
+            "children": []
+        },
+        {
+            "id": 90016344,
+            "name": "cloud-vue是一套基于springcloud + mybatis + vue全家桶（Vue2.x + Vue-router2.x + Vuex）的前后端分离框架. 使用Maven对项目进行模块化管理，提高项目的易开发性、扩展性。 系统包括分布式配置、eureka注册中心、服务中心、zipkin分布式跟踪等。 每个模块服务多系统部署，注册到同一个eureka集群服务注册中心，实现集群部署。",
+            "type": "File",
+            "path": "https://github.com/OptionalDay/spring-cloud-vue",
+            "download_link": "https://api.github.com/repos/OptionalDay/spring-cloud-vue/zipball/master",
             "children": []
         },
         {
@@ -65,6 +73,7 @@
             "name": "🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统",
             "type": "File",
             "path": "https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3",
+            "download_link": "https://api.github.com/repos/yangzongzhuan/RuoYi-Cloud-Vue3/zipball/master",
             "children": []
         },
         {
@@ -72,6 +81,7 @@
             "name": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
             "type": "File",
             "path": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "download_link": "https://api.github.com/repos/YunaiV/ruoyi-vue-pro/zipball/master",
             "children": []
         },
         {
@@ -79,6 +89,7 @@
             "name": "使用Vue+VueX+ElementUI+SpringBoot的代码框架",
             "type": "File",
             "path": "https://github.com/xwjie/ElementVueSpringbootCodeTemplate",
+            "download_link": "https://api.github.com/repos/xwjie/ElementVueSpringbootCodeTemplate/zipball/master",
             "children": []
         },
         {
@@ -86,13 +97,7 @@
             "name": "基于Spring Boot的在线考试系统(预览地址 http://129.211.88.191 ，账户分别是admin、teacher、student，密码是admin123)，也有Python实现",
             "type": "File",
             "path": "https://github.com/lsgwr/spring-boot-online-exam",
-            "children": []
-        },
-        {
-            "id": 149888884,
-            "name": "SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。",
-            "type": "File",
-            "path": "https://github.com/fuce1314/Springboot_v2",
+            "download_link": "https://api.github.com/repos/lsgwr/spring-boot-online-exam/zipball/master",
             "children": []
         },
         {
@@ -100,6 +105,15 @@
             "name": "微信商城SpringCloud版本 - 前端vue-shop",
             "type": "File",
             "path": "https://github.com/chengzhx76/weixin-shop-spring-cloud",
+            "download_link": "https://api.github.com/repos/chengzhx76/weixin-shop-spring-cloud/zipball/master",
+            "children": []
+        },
+        {
+            "id": 149888884,
+            "name": "SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。",
+            "type": "File",
+            "path": "https://github.com/fuce1314/Springboot_v2",
+            "download_link": "https://api.github.com/repos/fuce1314/Springboot_v2/zipball/master",
             "children": []
         },
         {
@@ -107,6 +121,7 @@
             "name": ":tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本",
             "type": "File",
             "path": "https://github.com/yangzongzhuan/RuoYi-Vue",
+            "download_link": "https://api.github.com/repos/yangzongzhuan/RuoYi-Vue/zipball/master",
             "children": []
         },
         {
@@ -114,6 +129,7 @@
             "name": "Front-end Vue + back-end Spring Boot completely separated user role admin template",
             "type": "File",
             "path": "https://github.com/Zoctan/spring-boot-vue-admin",
+            "download_link": "https://api.github.com/repos/Zoctan/spring-boot-vue-admin/zipball/master",
             "children": []
         },
         {
@@ -121,6 +137,7 @@
             "name": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
             "type": "File",
             "path": "https://github.com/linlinjava/litemall",
+            "download_link": "https://api.github.com/repos/linlinjava/litemall/zipball/master",
             "children": []
         },
         {
@@ -128,6 +145,7 @@
             "name": "SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java17 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 3.2 、Spring Cloud 2023 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。",
             "type": "File",
             "path": "https://github.com/chillzhuang/SpringBlade",
+            "download_link": "https://api.github.com/repos/chillzhuang/SpringBlade/zipball/master",
             "children": []
         },
         {
@@ -135,6 +153,7 @@
             "name": "《Spring Boot + Vue 全栈开发实战》官方案例，更多全栈资料请戳这里---->",
             "type": "File",
             "path": "https://github.com/lenve/spring-boot-vue-samples",
+            "download_link": "https://api.github.com/repos/lenve/spring-boot-vue-samples/zipball/master",
             "children": []
         },
         {
@@ -142,6 +161,7 @@
             "name": "基于vue+springboot的图书馆管理系统",
             "type": "File",
             "path": "https://github.com/shenxiancaiCCC/Vue-Springboot-Library",
+            "download_link": "https://api.github.com/repos/shenxiancaiCCC/Vue-Springboot-Library/zipball/main",
             "children": []
         },
         {
@@ -149,13 +169,7 @@
             "name": ":tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统",
             "type": "File",
             "path": "https://github.com/yangzongzhuan/RuoYi-Vue-fast",
-            "children": []
-        },
-        {
-            "id": 674649047,
-            "name": "SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务",
-            "type": "File",
-            "path": "https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt",
+            "download_link": "https://api.github.com/repos/yangzongzhuan/RuoYi-Vue-fast/zipball/master",
             "children": []
         },
         {
@@ -163,6 +177,15 @@
             "name": "spring boot + vue 项目案例",
             "type": "File",
             "path": "https://github.com/applenele/springboot-vue-sample",
+            "download_link": "https://api.github.com/repos/applenele/springboot-vue-sample/zipball/master",
+            "children": []
+        },
+        {
+            "id": 674649047,
+            "name": "SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务",
+            "type": "File",
+            "path": "https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt",
+            "download_link": "https://api.github.com/repos/itbaima-study/SpringBoot-Vue-Template-Jwt/zipball/main",
             "children": []
         },
         {
@@ -170,6 +193,7 @@
             "name": "Spring boot security jwt vue.js admin rights management template integration",
             "type": "File",
             "path": "https://github.com/thousmile/spring-admin-vue",
+            "download_link": "https://api.github.com/repos/thousmile/spring-admin-vue/zipball/master",
             "children": []
         },
         {
@@ -177,6 +201,7 @@
             "name": "A demonstration of stateless JWT authentication with Spring Security, Spring Boot and Vue js",
             "type": "File",
             "path": "https://github.com/PuZhiweizuishuai/SpringSecurity-JWT-Vue-Deom",
+            "download_link": "https://api.github.com/repos/PuZhiweizuishuai/SpringSecurity-JWT-Vue-Deom/zipball/master",
             "children": []
         },
         {
@@ -184,6 +209,7 @@
             "name": "Vue.js spring-boot starter (DEPRECATED)",
             "type": "File",
             "path": "https://github.com/kucharzyk/vuejs-java-starter",
+            "download_link": "https://api.github.com/repos/kucharzyk/vuejs-java-starter/zipball/master",
             "children": []
         },
         {
@@ -191,6 +217,7 @@
             "name": ":fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。",
             "type": "File",
             "path": "https://github.com/ZHENFENG13/spring-boot-projects",
+            "download_link": "https://api.github.com/repos/ZHENFENG13/spring-boot-projects/zipball/main",
             "children": []
         },
         {
@@ -198,6 +225,7 @@
             "name": ":fire:  spring-boot-plus-vue vue-element-admin",
             "type": "File",
             "path": "https://github.com/geekidea/spring-boot-plus-vue",
+            "download_link": "https://api.github.com/repos/geekidea/spring-boot-plus-vue/zipball/master",
             "children": []
         },
         {
@@ -205,6 +233,7 @@
             "name": "whc的毕业设计：基于Vue+SpringCloud博客的设计与实现-微服务-分布式",
             "type": "File",
             "path": "https://github.com/wanghaichao0611/Vue-SpringCloud-Blog",
+            "download_link": "https://api.github.com/repos/wanghaichao0611/Vue-SpringCloud-Blog/zipball/master",
             "children": []
         },
         {
@@ -212,6 +241,7 @@
             "name": "SpringBoot3 + Vue3 前后端分离模版，采用Session方案，包含基本的登录、注册、密码重置等等功能，可以二次开发编写具体场景下的应用程序。",
             "type": "File",
             "path": "https://github.com/itbaima-study/SpringBoot-Vue-Template-Session",
+            "download_link": "https://api.github.com/repos/itbaima-study/SpringBoot-Vue-Template-Session/zipball/main",
             "children": []
         },
         {
@@ -219,27 +249,7 @@
             "name": "SpringBoot + Vue Element UI 实现前后端分离",
             "type": "File",
             "path": "https://github.com/saysky/springboot-vue-example",
-            "children": []
-        },
-        {
-            "id": 150520798,
-            "name": "基于Spring Cloud实现微服务前后端系统",
-            "type": "File",
-            "path": "https://github.com/xuyaohui/Spring-Cloud-Cli",
-            "children": []
-        },
-        {
-            "id": 155645011,
-            "name": "SpringCloud + Vue 微服务项目",
-            "type": "File",
-            "path": "https://github.com/cuzz1/springcloud-vue-project",
-            "children": []
-        },
-        {
-            "id": 313302830,
-            "name": "一个Springboot+vue前后端分离的网上书店项目",
-            "type": "File",
-            "path": "https://github.com/StuHaiBin/bookStore-Springboot-Vue",
+            "download_link": "https://api.github.com/repos/saysky/springboot-vue-example/zipball/master",
             "children": []
         },
         {
@@ -247,20 +257,31 @@
             "name": "白卷是一款使用 Vue+Spring Boot 开发的前后端分离项目，附带全套开发教程。（A simple CMS developed by Spring Boot and Vue.js with development tutorials）",
             "type": "File",
             "path": "https://github.com/Antabot/White-Jotter",
+            "download_link": "https://api.github.com/repos/Antabot/White-Jotter/zipball/master",
             "children": []
         },
         {
-            "id": 230348727,
-            "name": "《실전! 스프링 5와 Vue.js 2로 시작하는 모던 웹 애플리케이션 개발》 예제 코드",
+            "id": 150520798,
+            "name": "基于Spring Cloud实现微服务前后端系统",
             "type": "File",
-            "path": "https://github.com/wikibook/spring-vuejs",
+            "path": "https://github.com/xuyaohui/Spring-Cloud-Cli",
+            "download_link": "https://api.github.com/repos/xuyaohui/Spring-Cloud-Cli/zipball/master",
             "children": []
         },
         {
-            "id": 107503112,
-            "name": "An opinionated desktop application with web front-end and Java backend.",
+            "id": 155645011,
+            "name": "SpringCloud + Vue 微服务项目",
             "type": "File",
-            "path": "https://github.com/wuruoyun/electron-vue-spring",
+            "path": "https://github.com/cuzz1/springcloud-vue-project",
+            "download_link": "https://api.github.com/repos/cuzz1/springcloud-vue-project/zipball/master",
+            "children": []
+        },
+        {
+            "id": 313302830,
+            "name": "一个Springboot+vue前后端分离的网上书店项目",
+            "type": "File",
+            "path": "https://github.com/StuHaiBin/bookStore-Springboot-Vue",
+            "download_link": "https://api.github.com/repos/StuHaiBin/bookStore-Springboot-Vue/zipball/master",
             "children": []
         },
         {
@@ -268,6 +289,7 @@
             "name": "spring boot + mybatis + vue + element-ui 实现后台管理API接口 https://lmxdawn.github.io/vue-admin-java",
             "type": "File",
             "path": "https://github.com/lmxdawn/vue-admin-java",
+            "download_link": "https://api.github.com/repos/lmxdawn/vue-admin-java/zipball/master",
             "children": []
         },
         {
@@ -275,6 +297,23 @@
             "name": ":laughing: 整合SpringBoot2.x+Mybatis，结合Vue.js简单实现CRUD业务",
             "type": "File",
             "path": "https://github.com/TyCoding/spring-boot",
+            "download_link": "https://api.github.com/repos/TyCoding/spring-boot/zipball/master",
+            "children": []
+        },
+        {
+            "id": 230348727,
+            "name": "《실전! 스프링 5와 Vue.js 2로 시작하는 모던 웹 애플리케이션 개발》 예제 코드",
+            "type": "File",
+            "path": "https://github.com/wikibook/spring-vuejs",
+            "download_link": "https://api.github.com/repos/wikibook/spring-vuejs/zipball/master",
+            "children": []
+        },
+        {
+            "id": 107503112,
+            "name": "An opinionated desktop application with web front-end and Java backend.",
+            "type": "File",
+            "path": "https://github.com/wuruoyun/electron-vue-spring",
+            "download_link": "https://api.github.com/repos/wuruoyun/electron-vue-spring/zipball/master",
             "children": []
         },
         {
@@ -282,6 +321,7 @@
             "name": "🍓 Spring Boot + Vue 前后端分离博客系统 https://naccl.top",
             "type": "File",
             "path": "https://github.com/Naccl/NBlog",
+            "download_link": "https://api.github.com/repos/Naccl/NBlog/zipball/master",
             "children": []
         },
         {
@@ -289,6 +329,7 @@
             "name": "web-flash --  Admin Framework and Mobile Website Based on Spring Boot and Vue.js",
             "type": "File",
             "path": "https://github.com/enilu/web-flash",
+            "download_link": "https://api.github.com/repos/enilu/web-flash/zipball/master",
             "children": []
         },
         {
@@ -296,6 +337,7 @@
             "name": "🤹 Vue Composables putting your components in motion",
             "type": "File",
             "path": "https://github.com/vueuse/motion",
+            "download_link": "https://api.github.com/repos/vueuse/motion/zipball/main",
             "children": []
         },
         {
@@ -303,6 +345,7 @@
             "name": "📚JAVA、Spring、SpringMVC、SpringBoot、Mybatis、Vue、MySQL、MongoDB、Radis、Docker、Nginx、......笔记",
             "type": "File",
             "path": "https://github.com/krislinzhao/StudyNotes",
+            "download_link": "https://api.github.com/repos/krislinzhao/StudyNotes/zipball/master",
             "children": []
         },
         {
@@ -310,6 +353,7 @@
             "name": "微信商城VUE版本 - 后端weixin-shop-spring-cloud",
             "type": "File",
             "path": "https://github.com/chengzhx76/vue-shop",
+            "download_link": "https://api.github.com/repos/chengzhx76/vue-shop/zipball/master",
             "children": []
         },
         {
@@ -317,6 +361,7 @@
             "name": "Vue-cli3.0 + Element UI + Spring Boot2.0 + 响应式的后台管理系统 https://lmxdawn.github.io/vue-admin",
             "type": "File",
             "path": "https://github.com/lmxdawn/vue-admin-html",
+            "download_link": "https://api.github.com/repos/lmxdawn/vue-admin-html/zipball/master",
             "children": []
         },
         {
@@ -324,13 +369,7 @@
             "name": "完整教学！从0到1开发，手把手教你学会开发一个spring security + jwt + vue的前后端分离项目！ 线上演示：https://markerhub.com/vueadmin/",
             "type": "File",
             "path": "https://github.com/MarkerHub/VueAdmin",
-            "children": []
-        },
-        {
-            "id": 222856512,
-            "name": "一个基于Vue+SpringBoot的个人博客项目。",
-            "type": "File",
-            "path": "https://github.com/lurenha/blogSpringBoot",
+            "download_link": "https://api.github.com/repos/MarkerHub/VueAdmin/zipball/master",
             "children": []
         },
         {
@@ -338,20 +377,15 @@
             "name": "spring boot + vue + element-ui 全栈开发入门",
             "type": "File",
             "path": "https://github.com/carter659/spring-boot-vue-element",
+            "download_link": "https://api.github.com/repos/carter659/spring-boot-vue-element/zipball/master",
             "children": []
         },
         {
-            "id": 185327197,
-            "name": "All full stack examples with Spring Boot and Vue JS for articles on our website http://www.springboottutorial.com",
+            "id": 222856512,
+            "name": "一个基于Vue+SpringBoot的个人博客项目。",
             "type": "File",
-            "path": "https://github.com/in28minutes/spring-boot-vuejs-fullstack-examples",
-            "children": []
-        },
-        {
-            "id": 128539979,
-            "name": "这是一个用SpringBoot+JPA打造的基于微信服务号平台的点餐系统的后端，前端是一个使用Vue.js构建的运行于微信公众号的WebApp。前后端完全分离，前后端之间通过RESTful风格的接口相连。",
-            "type": "File",
-            "path": "https://github.com/sqmax/springboot-project",
+            "path": "https://github.com/lurenha/blogSpringBoot",
+            "download_link": "https://api.github.com/repos/lurenha/blogSpringBoot/zipball/master",
             "children": []
         },
         {
@@ -359,6 +393,23 @@
             "name": "spring cloud 版分布式电商项目，全力打造顶级多模块，高可用，高扩展电商项目",
             "type": "File",
             "path": "https://github.com/SiGuiyang/spring-cloud-shop",
+            "download_link": "https://api.github.com/repos/SiGuiyang/spring-cloud-shop/zipball/main",
+            "children": []
+        },
+        {
+            "id": 128539979,
+            "name": "这是一个用SpringBoot+JPA打造的基于微信服务号平台的点餐系统的后端，前端是一个使用Vue.js构建的运行于微信公众号的WebApp。前后端完全分离，前后端之间通过RESTful风格的接口相连。",
+            "type": "File",
+            "path": "https://github.com/sqmax/springboot-project",
+            "download_link": "https://api.github.com/repos/sqmax/springboot-project/zipball/master",
+            "children": []
+        },
+        {
+            "id": 185327197,
+            "name": "All full stack examples with Spring Boot and Vue JS for articles on our website http://www.springboottutorial.com",
+            "type": "File",
+            "path": "https://github.com/in28minutes/spring-boot-vuejs-fullstack-examples",
+            "download_link": "https://api.github.com/repos/in28minutes/spring-boot-vuejs-fullstack-examples/zipball/master",
             "children": []
         },
         {
@@ -366,6 +417,7 @@
             "name": ":tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统",
             "type": "File",
             "path": "https://github.com/yangzongzhuan/RuoYi-Vue-Oracle",
+            "download_link": "https://api.github.com/repos/yangzongzhuan/RuoYi-Vue-Oracle/zipball/master",
             "children": []
         },
         {
@@ -373,13 +425,7 @@
             "name": "A blog power by spring-boot and vue",
             "type": "File",
             "path": "https://github.com/zzzzbw/Fame",
-            "children": []
-        },
-        {
-            "id": 166207367,
-            "name": "记一次前后端开发的入门培训",
-            "type": "File",
-            "path": "https://github.com/liangwei0101/Spring-Boot-And-Vue",
+            "download_link": "https://api.github.com/repos/zzzzbw/Fame/zipball/master",
             "children": []
         },
         {
@@ -387,6 +433,15 @@
             "name": "Full-stack implementation of TaskAgile application with Vue.js, Spring Boot, and MySQL",
             "type": "File",
             "path": "https://github.com/taskagile/vuejs.spring-boot.mysql",
+            "download_link": "https://api.github.com/repos/taskagile/vuejs.spring-boot.mysql/zipball/master",
+            "children": []
+        },
+        {
+            "id": 166207367,
+            "name": "记一次前后端开发的入门培训",
+            "type": "File",
+            "path": "https://github.com/liangwei0101/Spring-Boot-And-Vue",
+            "download_link": "https://api.github.com/repos/liangwei0101/Spring-Boot-And-Vue/zipball/master",
             "children": []
         },
         {
@@ -394,6 +449,7 @@
             "name": "基于Spring Boot+Spring Security+JWT+Vue前后端分离的旺旺小小酥  ( 一口一口又香又脆❤~ )",
             "type": "File",
             "path": "https://github.com/zhengqingya/xiao-xiao-su",
+            "download_link": "https://api.github.com/repos/zhengqingya/xiao-xiao-su/zipball/master",
             "children": []
         },
         {
@@ -401,6 +457,7 @@
             "name": "Spring Boot+Vue 书籍学习 demo",
             "type": "File",
             "path": "https://github.com/Vip-Augus/springboot-note",
+            "download_link": "https://api.github.com/repos/Vip-Augus/springboot-note/zipball/master",
             "children": []
         },
         {
@@ -408,6 +465,7 @@
             "name": "한 프로젝트에서 spring과 vue 개발하기",
             "type": "File",
             "path": "https://github.com/kingbbode/spring-vuejs",
+            "download_link": "https://api.github.com/repos/kingbbode/spring-vuejs/zipball/master",
             "children": []
         },
         {
@@ -415,6 +473,7 @@
             "name": "开源的H5即时聊天系统 spring-boot + netty + protobuf + vue ~",
             "type": "File",
             "path": "https://github.com/lmxdawn/him-vue",
+            "download_link": "https://api.github.com/repos/lmxdawn/him-vue/zipball/master",
             "children": []
         },
         {
@@ -422,6 +481,7 @@
             "name": null,
             "type": "File",
             "path": "https://github.com/ywbjja/springSecurity-jwt-vue-temple",
+            "download_link": "https://api.github.com/repos/ywbjja/springSecurity-jwt-vue-temple/zipball/master",
             "children": []
         },
         {
@@ -429,6 +489,7 @@
             "name": null,
             "type": "File",
             "path": "https://github.com/BekeyChao/spring-vue-demo",
+            "download_link": "https://api.github.com/repos/BekeyChao/spring-vue-demo/zipball/master",
             "children": []
         },
         {
@@ -436,13 +497,7 @@
             "name": "企业固定资产管理系统",
             "type": "File",
             "path": "https://github.com/jiangtj/enterpriseAssetManagement",
-            "children": []
-        },
-        {
-            "id": 204388290,
-            "name": "🚀 The best rbac web  framework. base on Spring Boot 3.2、 Spring Cloud 2023、 OAuth2 . Give a star",
-            "type": "File",
-            "path": "https://github.com/pig-mesh/pig-ui",
+            "download_link": "https://api.github.com/repos/jiangtj/enterpriseAssetManagement/zipball/master",
             "children": []
         },
         {
@@ -450,6 +505,15 @@
             "name": "医院预约挂号微信小程序（Spring Boot、Vue、Uni-app）",
             "type": "File",
             "path": "https://github.com/YuJian95/hospital",
+            "download_link": "https://api.github.com/repos/YuJian95/hospital/zipball/master",
+            "children": []
+        },
+        {
+            "id": 204388290,
+            "name": "🚀 The best rbac web  framework. base on Spring Boot 3.2、 Spring Cloud 2023、 OAuth2 . Give a star",
+            "type": "File",
+            "path": "https://github.com/pig-mesh/pig-ui",
+            "download_link": "https://api.github.com/repos/pig-mesh/pig-ui/zipball/master",
             "children": []
         },
         {
@@ -457,6 +521,7 @@
             "name": "SpringMVC+Spring+MyBatis+Vue.js",
             "type": "File",
             "path": "https://github.com/fankay/ssmVue",
+            "download_link": "https://api.github.com/repos/fankay/ssmVue/zipball/master",
             "children": []
         },
         {
@@ -464,6 +529,7 @@
             "name": "Spring Boot, Vue.js",
             "type": "File",
             "path": "https://github.com/pravusid/springboot-vue.js-bbs",
+            "download_link": "https://api.github.com/repos/pravusid/springboot-vue.js-bbs/zipball/master",
             "children": []
         },
         {
@@ -471,6 +537,7 @@
             "name": "在线考试系统，springboot+vue前后端分离的一个项目，记录自己毕业设计完成的情况",
             "type": "File",
             "path": "https://github.com/Hysian/springboot-vue",
+            "download_link": "https://api.github.com/repos/Hysian/springboot-vue/zipball/master",
             "children": []
         },
         {
@@ -478,13 +545,7 @@
             "name": "悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统",
             "type": "File",
             "path": "https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA",
-            "children": []
-        },
-        {
-            "id": 161757837,
-            "name": "eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
-            "type": "File",
-            "path": "https://github.com/elunez/eladmin",
+            "download_link": "https://api.github.com/repos/WuKongOpenSource/WukongCRM-11.0-JAVA/zipball/master",
             "children": []
         },
         {
@@ -492,6 +553,15 @@
             "name": "Vue+Spring boot前后端分离项目（wh-web+wh-server的升级版）",
             "type": "File",
             "path": "https://github.com/Big-Chinese-Cabbage/interest",
+            "download_link": "https://api.github.com/repos/Big-Chinese-Cabbage/interest/zipball/master",
+            "children": []
+        },
+        {
+            "id": 161757837,
+            "name": "eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+            "type": "File",
+            "path": "https://github.com/elunez/eladmin",
+            "download_link": "https://api.github.com/repos/elunez/eladmin/zipball/master",
             "children": []
         },
         {
@@ -499,6 +569,7 @@
             "name": "基于springBoot,shiro,vue的前后端分离的学生信息管理系统",
             "type": "File",
             "path": "https://github.com/qiuxinfa/springboot-shiro-vue-stu",
+            "download_link": "https://api.github.com/repos/qiuxinfa/springboot-shiro-vue-stu/zipball/master",
             "children": []
         },
         {
@@ -506,6 +577,7 @@
             "name": "spring boot + mybatis + vue + element-ui 实现后台管理API接口 ",
             "type": "File",
             "path": "https://github.com/lmxdawn/vue-admin-html-java",
+            "download_link": "https://api.github.com/repos/lmxdawn/vue-admin-html-java/zipball/master",
             "children": []
         },
         {
@@ -513,6 +585,7 @@
             "name": null,
             "type": "File",
             "path": "https://github.com/tokuhirom/spring-vue-sample",
+            "download_link": "https://api.github.com/repos/tokuhirom/spring-vue-sample/zipball/master",
             "children": []
         },
         {
@@ -520,6 +593,7 @@
             "name": "我,请始皇[打钱]是一个前后端分离的工具人系统，项目采用 SpringBoot+Go+Vue 开发，项目加入常见的企业级应用所涉及到的技术点，例如 Redis、RabbitMQ 等(主要是多用用工具多踩踩坑)。",
             "type": "File",
             "path": "https://github.com/AldonahZero/spring-Boot-Vue-Bank",
+            "download_link": "https://api.github.com/repos/AldonahZero/spring-Boot-Vue-Bank/zipball/master",
             "children": []
         },
         {
@@ -527,6 +601,7 @@
             "name": "止步传统CRUD，进阶代码优化：一套基于Spring Boot+Vue+Shiro前后端分离的代码生成器",
             "type": "File",
             "path": "https://github.com/zhengqingya/code-generator",
+            "download_link": "https://api.github.com/repos/zhengqingya/code-generator/zipball/master",
             "children": []
         },
         {
@@ -534,20 +609,7 @@
             "name": "前后端分离项目 使用Springboot+Vue进行开发",
             "type": "File",
             "path": "https://github.com/wxyShine/springboot_vue_shop",
-            "children": []
-        },
-        {
-            "id": 288687683,
-            "name": "SpringBoot+VUE开发的校园招聘网站",
-            "type": "File",
-            "path": "https://github.com/SmallShot1/SpringBootVueIDEA",
-            "children": []
-        },
-        {
-            "id": 159241766,
-            "name": "A Todo App that showcases Spring Boot, Vue.js, and Okta's support for both.",
-            "type": "File",
-            "path": "https://github.com/oktadev/okta-spring-boot-vue-crud-example",
+            "download_link": "https://api.github.com/repos/wxyShine/springboot_vue_shop/zipball/master",
             "children": []
         },
         {
@@ -555,6 +617,23 @@
             "name": "springboot+vue+shiro 项目，包括权限，代码生成,，工作流等 demo:地址",
             "type": "File",
             "path": "https://github.com/wushu0725/shrek-springboot-vue",
+            "download_link": "https://api.github.com/repos/wushu0725/shrek-springboot-vue/zipball/master",
+            "children": []
+        },
+        {
+            "id": 288687683,
+            "name": "SpringBoot+VUE开发的校园招聘网站",
+            "type": "File",
+            "path": "https://github.com/SmallShot1/SpringBootVueIDEA",
+            "download_link": "https://api.github.com/repos/SmallShot1/SpringBootVueIDEA/zipball/master",
+            "children": []
+        },
+        {
+            "id": 159241766,
+            "name": "A Todo App that showcases Spring Boot, Vue.js, and Okta's support for both.",
+            "type": "File",
+            "path": "https://github.com/oktadev/okta-spring-boot-vue-crud-example",
+            "download_link": "https://api.github.com/repos/oktadev/okta-spring-boot-vue-crud-example/zipball/main",
             "children": []
         },
         {
@@ -562,13 +641,7 @@
             "name": "A blog built up with Spring Boot in the back end and Vue.js in the front-end",
             "type": "File",
             "path": "https://github.com/arocketman/SpringBlog",
-            "children": []
-        },
-        {
-            "id": 646146070,
-            "name": "一个仿照小红书和堆糖页面设计的基于springboot和vue的uniapp项目，支持短信发送，对象存储，私信聊天等多种功能。",
-            "type": "File",
-            "path": "https://github.com/xiaozhao-66/Springboot-vue-xiaohongshu",
+            "download_link": "https://api.github.com/repos/arocketman/SpringBlog/zipball/master",
             "children": []
         },
         {
@@ -576,13 +649,7 @@
             "name": "前后端分离的权限认证",
             "type": "File",
             "path": "https://github.com/fwing1987/SpringBoot-Shiro-Vue",
-            "children": []
-        },
-        {
-            "id": 67560254,
-            "name": "DEPRECATED - An example project with Vuejs, Spring Boot, Webpack, and ES6",
-            "type": "File",
-            "path": "https://github.com/jamesjieye/vuejs.spring-boot",
+            "download_link": "https://api.github.com/repos/fwing1987/SpringBoot-Shiro-Vue/zipball/master",
             "children": []
         },
         {
@@ -590,6 +657,15 @@
             "name": "springboot+vue实现增删改查及分页小DEMO",
             "type": "File",
             "path": "https://github.com/Aizhuxueliang/springboot-vue",
+            "download_link": "https://api.github.com/repos/Aizhuxueliang/springboot-vue/zipball/master",
+            "children": []
+        },
+        {
+            "id": 67560254,
+            "name": "DEPRECATED - An example project with Vuejs, Spring Boot, Webpack, and ES6",
+            "type": "File",
+            "path": "https://github.com/jamesjieye/vuejs.spring-boot",
+            "download_link": "https://api.github.com/repos/jamesjieye/vuejs.spring-boot/zipball/master",
             "children": []
         },
         {
@@ -597,13 +673,15 @@
             "name": "Spring Boot + VueJS Starter Template",
             "type": "File",
             "path": "https://github.com/danvega/full-stack-java-vue",
+            "download_link": "https://api.github.com/repos/danvega/full-stack-java-vue/zipball/master",
             "children": []
         },
         {
-            "id": 115069884,
-            "name": null,
+            "id": 646146070,
+            "name": "一个仿照小红书和堆糖页面设计的基于springboot和vue的uniapp项目，支持短信发送，对象存储，私信聊天等多种功能。",
             "type": "File",
-            "path": "https://github.com/BekeyChao/vue-spring-demo",
+            "path": "https://github.com/xiaozhao-66/Springboot-vue-xiaohongshu",
+            "download_link": "https://api.github.com/repos/xiaozhao-66/Springboot-vue-xiaohongshu/zipball/dev",
             "children": []
         },
         {
@@ -611,6 +689,15 @@
             "name": "该项目基于Vue，使用vue-cli3脚手架，引用Element UI组件库、Echarts等，作为一套基础的后台系统，适用于绝大部分的后台管理系统开发。包含：登录、注销、可视化数据大屏、管理员、角色管理、菜单管理、权限管理、操作日志、登录日志、错误日志、七牛云上传等功能；需要配合后端接口一起使用。",
             "type": "File",
             "path": "https://github.com/wdjisn/SpringBoot-Vue",
+            "download_link": "https://api.github.com/repos/wdjisn/SpringBoot-Vue/zipball/master",
+            "children": []
+        },
+        {
+            "id": 115069884,
+            "name": null,
+            "type": "File",
+            "path": "https://github.com/BekeyChao/vue-spring-demo",
+            "download_link": "https://api.github.com/repos/BekeyChao/vue-spring-demo/zipball/master",
             "children": []
         },
         {
@@ -618,6 +705,7 @@
             "name": "这是一个springboot+vue+shiro的后台权限管理系统，很全",
             "type": "File",
             "path": "https://github.com/Haigehit/springboot-vue-shiro",
+            "download_link": "https://api.github.com/repos/Haigehit/springboot-vue-shiro/zipball/master",
             "children": []
         },
         {
@@ -625,6 +713,7 @@
             "name": "spring-boot vue2 简单的点餐系统",
             "type": "File",
             "path": "https://github.com/QiuMing/spring-boot-vue-demo",
+            "download_link": "https://api.github.com/repos/QiuMing/spring-boot-vue-demo/zipball/master",
             "children": []
         },
         {
@@ -632,13 +721,7 @@
             "name": "SpringBoot整合Vue，实现前后端的分离。采用SSM框架，实现服务器端的java代码实现",
             "type": "File",
             "path": "https://github.com/dgyuanjun/SpringBoot-Vue",
-            "children": []
-        },
-        {
-            "id": 149087910,
-            "name": "Spring Boot 和 Vue 的简单整合",
-            "type": "File",
-            "path": "https://github.com/maxwellhertz/SpringBoot-Vue-SimpleDemo",
+            "download_link": "https://api.github.com/repos/dgyuanjun/SpringBoot-Vue/zipball/master",
             "children": []
         },
         {
@@ -646,6 +729,7 @@
             "name": "重构Ruoyi-Vue！基于SpringBoot和Vue3，搭配Naive UI组件库，模块清晰，界面美观，可自主选择主题色，提高视觉舒适度！欢迎Star⭐!",
             "type": "File",
             "path": "https://github.com/Ginyi3705/ginyi-spring-vue",
+            "download_link": "https://api.github.com/repos/Ginyi3705/ginyi-spring-vue/zipball/master",
             "children": []
         },
         {
@@ -653,6 +737,7 @@
             "name": null,
             "type": "File",
             "path": "https://github.com/xiaojinlai/vue-spring-login-summed",
+            "download_link": "https://api.github.com/repos/xiaojinlai/vue-spring-login-summed/zipball/master",
             "children": []
         },
         {
@@ -660,27 +745,15 @@
             "name": "开源的H5即时聊天系统 spring-boot + netty + protobuf + vue ~",
             "type": "File",
             "path": "https://github.com/lmxdawn/him-netty",
+            "download_link": "https://api.github.com/repos/lmxdawn/him-netty/zipball/master",
             "children": []
         },
         {
-            "id": 370293851,
-            "name": "SpringBoot+VUE在线音乐播放、音乐下载网站",
+            "id": 149087910,
+            "name": "Spring Boot 和 Vue 的简单整合",
             "type": "File",
-            "path": "https://github.com/XMMarlowe/SpringBoot-VUE-Music",
-            "children": []
-        },
-        {
-            "id": 161984453,
-            "name": "基于SpringCloud和Vue的权限管理系统,用户名:admin, 密码:admin",
-            "type": "File",
-            "path": "https://github.com/lsgwr/spring-cloud-vue-admin",
-            "children": []
-        },
-        {
-            "id": 154274474,
-            "name": "Building Applications with Spring 5 and Vue.js 2, published by Packt",
-            "type": "File",
-            "path": "https://github.com/PacktPublishing/Building-Applications-with-Spring-5-and-Vue.js-2",
+            "path": "https://github.com/maxwellhertz/SpringBoot-Vue-SimpleDemo",
+            "download_link": "https://api.github.com/repos/maxwellhertz/SpringBoot-Vue-SimpleDemo/zipball/master",
             "children": []
         },
         {
@@ -688,6 +761,31 @@
             "name": "仿掘金之【南生论坛】基于SpringBoot+Vue(2/3)框架实现前后端分离（大厂微服务架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善，性能高效。官方地址：https://bbs.nanshengbbs.top",
             "type": "File",
             "path": "https://github.com/maliangnansheng/bbs-springboot",
+            "download_link": "https://api.github.com/repos/maliangnansheng/bbs-springboot/zipball/master",
+            "children": []
+        },
+        {
+            "id": 161984453,
+            "name": "基于SpringCloud和Vue的权限管理系统,用户名:admin, 密码:admin",
+            "type": "File",
+            "path": "https://github.com/lsgwr/spring-cloud-vue-admin",
+            "download_link": "https://api.github.com/repos/lsgwr/spring-cloud-vue-admin/zipball/master",
+            "children": []
+        },
+        {
+            "id": 370293851,
+            "name": "SpringBoot+VUE在线音乐播放、音乐下载网站",
+            "type": "File",
+            "path": "https://github.com/XMMarlowe/SpringBoot-VUE-Music",
+            "download_link": "https://api.github.com/repos/XMMarlowe/SpringBoot-VUE-Music/zipball/main",
+            "children": []
+        },
+        {
+            "id": 154274474,
+            "name": "Building Applications with Spring 5 and Vue.js 2, published by Packt",
+            "type": "File",
+            "path": "https://github.com/PacktPublishing/Building-Applications-with-Spring-5-and-Vue.js-2",
+            "download_link": "https://api.github.com/repos/PacktPublishing/Building-Applications-with-Spring-5-and-Vue.js-2/zipball/master",
             "children": []
         },
         {
@@ -695,6 +793,7 @@
             "name": "Formaciones en ecosistema Spring: Spring Framework, Spring Boot, Spring MVC, Spring Security, Spring Cloud, Spring Testing, Spring AOP, Spring + Thymeleaf, Spring WebFlux, Spring con Angular + React + Vue, Spring con Docker.",
             "type": "File",
             "path": "https://github.com/certidevs/spring",
+            "download_link": "https://api.github.com/repos/certidevs/spring/zipball/main",
             "children": []
         },
         {
@@ -702,727 +801,47 @@
             "name": "springboot 整合vue就行前后端完全分离，监听器，过滤器，拦截器，nginx",
             "type": "File",
             "path": "https://github.com/ninuxGithub/spring-boot-vue-separate",
+            "download_link": "https://api.github.com/repos/ninuxGithub/spring-boot-vue-separate/zipball/master",
             "children": []
         },
         {
-            "id": 4690234,
-            "name": "北航毕设论文LaTeX模板",
+            "id": 81427221,
+            "name": "用户贷款风险预测 ",
             "type": "File",
-            "path": "https://github.com/BHOSC/BUAAthesis",
+            "path": "https://github.com/hczheng/Rong360",
+            "download_link": "https://api.github.com/repos/hczheng/Rong360/zipball/master",
             "children": []
         },
         {
-            "id": 222856841,
-            "name": "聊天室、websocket、socket.io、毕业设计。",
+            "id": 130827252,
+            "name": "双色球+大乐透彩票AI预测",
             "type": "File",
-            "path": "https://github.com/CCZX/wechat",
+            "path": "https://github.com/zepen/predict_Lottery_ticket",
+            "download_link": "https://api.github.com/repos/zepen/predict_Lottery_ticket/zipball/master",
             "children": []
         },
         {
-            "id": 271195963,
-            "name": "毕设源码",
+            "id": 172867873,
+            "name": "刀具剩余寿命预测",
             "type": "File",
-            "path": "https://github.com/zgjshazxk/EnglishLearningApp",
+            "path": "https://github.com/ultimatejoe/rul_of_cutter",
+            "download_link": "https://api.github.com/repos/ultimatejoe/rul_of_cutter/zipball/master",
             "children": []
         },
         {
-            "id": 437498547,
-            "name": "毕业设计，python/django，java/springboot，vue",
+            "id": 194996513,
+            "name": "金融时间序列（预测分析 / 相似度 / 数据处理）",
             "type": "File",
-            "path": "https://github.com/geeeeeeeek/code_products",
+            "path": "https://github.com/jm199504/Financial-Time-Series",
+            "download_link": "https://api.github.com/repos/jm199504/Financial-Time-Series/zipball/master",
             "children": []
         },
         {
-            "id": 8289963,
-            "name": "电子科技大学毕设设计论文LaTeX模板",
+            "id": 160479538,
+            "name": "专注于解决推荐领域与搜索领域的两个核心问题:排序预测(Ranking)和评分预测(Rating).  为相关领域的研发人员提供完整的通用设计与参考实现.  涵盖了70多种排序预测与评分预测算法,是最快最全的Java推荐与搜索引擎.",
             "type": "File",
-            "path": "https://github.com/shifujun/UESTCthesis",
-            "children": []
-        },
-        {
-            "id": 192085156,
-            "name": "学生宿舍管理系统（SSM/Layui框架；毕业设计）",
-            "type": "File",
-            "path": "https://github.com/Joyrocky/DormitoryManager",
-            "children": []
-        },
-        {
-            "id": 133906834,
-            "name": "毕业设计: cesium可视化",
-            "type": "File",
-            "path": "https://github.com/ckvv/cesium-demos",
-            "children": []
-        },
-        {
-            "id": 79616243,
-            "name": "Android毕业设计; Android, Music Player, for graduation",
-            "type": "File",
-            "path": "https://github.com/SusionSuc/android-learn-music",
-            "children": []
-        },
-        {
-            "id": 163413887,
-            "name": "我自己制作的广州大学Latex报告模板，有毕业设计，课程设计，毕业论文，等等🎈",
-            "type": "File",
-            "path": "https://github.com/swq123459/GZHU-Report-Latex-Version",
-            "children": []
-        },
-        {
-            "id": 179068226,
-            "name": "校园帮项目，毕业设计/课程设计/javaWeb/SSM",
-            "type": "File",
-            "path": "https://github.com/ytu-shh/campusHelp",
-            "children": []
-        },
-        {
-            "id": 96206851,
-            "name": "微博情感分析，文本分类，毕业设计项目",
-            "type": "File",
-            "path": "https://github.com/Zephery/weiboanalysis",
-            "children": []
-        },
-        {
-            "id": 124547430,
-            "name": "毕业设计基于Opencv的车牌识别系统",
-            "type": "File",
-            "path": "https://github.com/yinghualuowu/Python_VLPR",
-            "children": []
-        },
-        {
-            "id": 186340601,
-            "name": "毕业设计基于SSM/Springboot的商城项目",
-            "type": "File",
-            "path": "https://github.com/codingxin/OnlineSchoolShop",
-            "children": []
-        },
-        {
-            "id": 123303111,
-            "name": "本科生毕业设计 基于Thinkphp3.2的毕设选题系统 ",
-            "type": "File",
-            "path": "https://github.com/Zheng-Shaozhuo/Studen-Graduation-Project",
-            "children": []
-        },
-        {
-            "id": 9544912,
-            "name": "我的毕业设计_网上商城",
-            "type": "File",
-            "path": "https://github.com/jphuang/shopping",
-            "children": []
-        },
-        {
-            "id": 81400319,
-            "name": "趣闻-Kotlin版，我的毕设项目",
-            "type": "File",
-            "path": "https://github.com/xiaweizi/QNews_Kotlin",
-            "children": []
-        },
-        {
-            "id": 124512199,
-            "name": "毕业设计管理系统",
-            "type": "File",
-            "path": "https://github.com/Li-Zhan/graduation",
-            "children": []
-        },
-        {
-            "id": 89260188,
-            "name": "🤒医院预约挂号系统(期末项目/毕业设计)",
-            "type": "File",
-            "path": "https://github.com/sfturing/hosp_order",
-            "children": []
-        },
-        {
-            "id": 130855965,
-            "name": "混合音乐推荐系统——Track Stacking——毕业设计",
-            "type": "File",
-            "path": "https://github.com/wangruns/Hybrid-Music-Recommender-System",
-            "children": []
-        },
-        {
-            "id": 125530345,
-            "name": "毕业设计，图像拼接",
-            "type": "File",
-            "path": "https://github.com/zhaobenx/Image-stitcher",
-            "children": []
-        },
-        {
-            "id": 111629184,
-            "name": "毕业设计",
-            "type": "File",
-            "path": "https://github.com/robot0x/movie",
-            "children": []
-        },
-        {
-            "id": 236445843,
-            "name": "java毕设在线考试系统（Online Test System）",
-            "type": "File",
-            "path": "https://github.com/shuzhao11/quiz",
-            "children": []
-        },
-        {
-            "id": 34882142,
-            "name": "学生成绩管理分析系统 毕业设计",
-            "type": "File",
-            "path": "https://github.com/leorian/Analysis-of-student-achievement-management-system",
-            "children": []
-        },
-        {
-            "id": 50770524,
-            "name": "毕业设计",
-            "type": "File",
-            "path": "https://github.com/zhehu1/h5Chat",
-            "children": []
-        },
-        {
-            "id": 131358601,
-            "name": "毕业设计管理系统",
-            "type": "File",
-            "path": "https://github.com/Zhangchao999/Graduation-Design-Management-System",
-            "children": []
-        },
-        {
-            "id": 567594298,
-            "name": "计算机毕业设计（源码+论文）",
-            "type": "File",
-            "path": "https://github.com/kaka3511/computer-graduation-design-idea",
-            "children": []
-        },
-        {
-            "id": 245406435,
-            "name": "毕业设计视频网站",
-            "type": "File",
-            "path": "https://github.com/YTCLCM/VideoWeb",
-            "children": []
-        },
-        {
-            "id": 172164352,
-            "name": "毕业设计：微博用户情感分析系统Django+vue",
-            "type": "File",
-            "path": "https://github.com/Superbsco/weibo-analysis-system",
-            "children": []
-        },
-        {
-            "id": 130567793,
-            "name": "毕业设计管理系统 ",
-            "type": "File",
-            "path": "https://github.com/Kuangcp/Graduate",
-            "children": []
-        },
-        {
-            "id": 77193995,
-            "name": "本人的毕业设计，多知天气~",
-            "type": "File",
-            "path": "https://github.com/w77996/Weather",
-            "children": []
-        },
-        {
-            "id": 179788528,
-            "name": "毕业设计：进销存管理系统",
-            "type": "File",
-            "path": "https://github.com/Lotharing/SDIMS",
-            "children": []
-        },
-        {
-            "id": 85197673,
-            "name": "基于php的外卖点餐网站-点餐系统 - 毕业设计 - 课程设计",
-            "type": "File",
-            "path": "https://github.com/geeeeeeeek/dingfanzu",
-            "children": []
-        },
-        {
-            "id": 177417804,
-            "name": "在线考试系统，毕业设计，个人独立完成",
-            "type": "File",
-            "path": "https://github.com/Corvey/Exam-Online",
-            "children": []
-        },
-        {
-            "id": 113764838,
-            "name": "[毕业设计] 承接毕业设计系统讲解+调试 承接Java SpringBoot项目和大数据部署与运行问题排查；联系微信bq2323599883",
-            "type": "File",
-            "path": "https://github.com/20100507/emotional_analysis",
-            "children": []
-        },
-        {
-            "id": 54397699,
-            "name": "【毕业设计】手写数字识别",
-            "type": "File",
-            "path": "https://github.com/liushenwenyuan/matlab_orc",
-            "children": []
-        },
-        {
-            "id": 246212770,
-            "name": "毕业设计--微麦电影购票小程序（Vue、SpringBoot）",
-            "type": "File",
-            "path": "https://github.com/xierongwkhd/weimai-wetapp",
-            "children": []
-        },
-        {
-            "id": 451472494,
-            "name": "本人毕业设计",
-            "type": "File",
-            "path": "https://github.com/Kissingbymodi/VideoSystem",
-            "children": []
-        },
-        {
-            "id": 24284558,
-            "name": "毕业设计项目——智能家居原型开发",
-            "type": "File",
-            "path": "https://github.com/JamesonHuang/Graduation-Project",
-            "children": []
-        },
-        {
-            "id": 18549127,
-            "name": "毕业设计",
-            "type": "File",
-            "path": "https://github.com/bingoogolapple/Graduation-Design",
-            "children": []
-        },
-        {
-            "id": 173900045,
-            "name": "基于Java Web的智能二维码门禁管理系统（本科毕业论文+毕业设计）",
-            "type": "File",
-            "path": "https://github.com/uniqueliuzhen/QRcode_doorManage",
-            "children": []
-        },
-        {
-            "id": 177084707,
-            "name": "java毕设：办公自动化系统。springboot+vue+element-ui 前后端分离",
-            "type": "File",
-            "path": "https://github.com/BerserkerHercules/OfficeAutomatic-System",
-            "children": []
-        },
-        {
-            "id": 189816402,
-            "name": "本科的毕业设计——基于STM32的六足机器人设计",
-            "type": "File",
-            "path": "https://github.com/linyongxinhio/Six-legged-Robot",
-            "children": []
-        },
-        {
-            "id": 223538413,
-            "name": "本人2019届毕业设计作品《企业级网盘分布式系统》，被评为优秀毕业设计。本系统通过SpringBoot+Hadoop+Vue进行整合。",
-            "type": "File",
-            "path": "https://github.com/chenxingxing6/cxx-graduation",
-            "children": []
-        },
-        {
-            "id": 71529353,
-            "name": "毕业设计--基于微信小程序的在线免费小说应用",
-            "type": "File",
-            "path": "https://github.com/Andyliwr/mbook",
-            "children": []
-        },
-        {
-            "id": 612300493,
-            "name": "本科个人目标检测毕设",
-            "type": "File",
-            "path": "https://github.com/datar5/yolov8-flask-vue-deploy",
-            "children": []
-        },
-        {
-            "id": 190555412,
-            "name": "本科毕设内容：基于卷积神经网络的疲劳驾驶检测。",
-            "type": "File",
-            "path": "https://github.com/PengfeiM/Fatigue-Driven-Detection-Based-on-CNN",
-            "children": []
-        },
-        {
-            "id": 194504396,
-            "name": "科大二手工坊（校园二手交易平台毕业设计）",
-            "type": "File",
-            "path": "https://github.com/lvr1997/kd-second-hand-workshop",
-            "children": []
-        },
-        {
-            "id": 184384535,
-            "name": "基于SSM和SpringBoot的毕业设计<动态旅游网站>",
-            "type": "File",
-            "path": "https://github.com/niziming/tripweb",
-            "children": []
-        },
-        {
-            "id": 170274735,
-            "name": "毕业设计-超市管理系统(django)",
-            "type": "File",
-            "path": "https://github.com/djanchew/demo-django-supermarket",
-            "children": []
-        },
-        {
-            "id": 367340123,
-            "name": "15个JavaWeb和JavaSE小项目。SSM、JavaFX、SpringBoot。毕设学习好模板。",
-            "type": "File",
-            "path": "https://github.com/xiaobeibi/JavaDemoProjects",
-            "children": []
-        },
-        {
-            "id": 56165600,
-            "name": "毕业设计",
-            "type": "File",
-            "path": "https://github.com/leaxoy/design",
-            "children": []
-        },
-        {
-            "id": 165801959,
-            "name": "整理的一些毕设项目",
-            "type": "File",
-            "path": "https://github.com/ares5221/awesome-graduation-projects",
-            "children": []
-        },
-        {
-            "id": 201084204,
-            "name": "毕设-设备故障预测系统",
-            "type": "File",
-            "path": "https://github.com/marathon110/FaultPredictionSystem",
-            "children": []
-        },
-        {
-            "id": 254051398,
-            "name": "Matlab数字图像处理毕业设计课题赏析",
-            "type": "File",
-            "path": "https://github.com/matlablyz/Digital-images",
-            "children": []
-        },
-        {
-            "id": 62325370,
-            "name": "个人毕业设计 - 基于树莓派、OpenCV及Python语言的人脸识别",
-            "type": "File",
-            "path": "https://github.com/hirohe/facerec-python",
-            "children": []
-        },
-        {
-            "id": 159278835,
-            "name": "java课程设计/毕业设计选题系统",
-            "type": "File",
-            "path": "https://github.com/mikeygithub/GraduationDesign",
-            "children": []
-        },
-        {
-            "id": 3079779,
-            "name": "西电本科毕业设计论文LaTeX模板宏包",
-            "type": "File",
-            "path": "https://github.com/xdlinux/xdba-thesis",
-            "children": []
-        },
-        {
-            "id": 352089193,
-            "name": "毕业设计Android部分",
-            "type": "File",
-            "path": "https://github.com/JinFengHua/project-android",
-            "children": []
-        },
-        {
-            "id": 163387305,
-            "name": "毕业设计-汉语多音字注音研究",
-            "type": "File",
-            "path": "https://github.com/hjzin/PolyphoneDisambiguation",
-            "children": []
-        },
-        {
-            "id": 276876656,
-            "name": "whc的毕业设计：基于Vue+SpringCloud博客的设计与实现-微服务-分布式",
-            "type": "File",
-            "path": "https://github.com/wanghaichao0611/Vue-SpringCloud-Blog",
-            "children": []
-        },
-        {
-            "id": 434815054,
-            "name": "基于thinkphp6.0+mysql+bootstrap4的疫情防控系统毕业设计",
-            "type": "File",
-            "path": "https://github.com/yiqia/student_system",
-            "children": []
-        },
-        {
-            "id": 189409365,
-            "name": "毕业设计 主机安全态势感知系统",
-            "type": "File",
-            "path": "https://github.com/lw1988/PyAwearnessSystem",
-            "children": []
-        },
-        {
-            "id": 88226057,
-            "name": "教务管理系统（毕业设计）",
-            "type": "File",
-            "path": "https://github.com/HuangLiwis/educationalManagementSystem-",
-            "children": []
-        },
-        {
-            "id": 262248860,
-            "name": "智能家居，毕业设计，课程设计，物联网，MQTT，JavaWeb",
-            "type": "File",
-            "path": "https://github.com/ytu-shh/smartHome",
-            "children": []
-        },
-        {
-            "id": 88485800,
-            "name": "数据分析和可视化毕设",
-            "type": "File",
-            "path": "https://github.com/jasminecjc/lagou_data_analysis",
-            "children": []
-        },
-        {
-            "id": 34105487,
-            "name": "毕业设计 - 书籍推荐系统",
-            "type": "File",
-            "path": "https://github.com/prehawk1999/book-recsys",
-            "children": []
-        },
-        {
-            "id": 170482779,
-            "name": "毕业设计SpringBoot版",
-            "type": "File",
-            "path": "https://github.com/Wwzb/cisp",
-            "children": []
-        },
-        {
-            "id": 606354396,
-            "name": "（Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计",
-            "type": "File",
-            "path": "https://github.com/geeeeeeeek/python_book",
-            "children": []
-        },
-        {
-            "id": 244197417,
-            "name": "Python在线考试系统后端-大学毕业设计-基于Django+Django -Rest-Framework",
-            "type": "File",
-            "path": "https://github.com/520118202/ExamOnline",
-            "children": []
-        },
-        {
-            "id": 136937265,
-            "name": "基于SSM使用idea构建的旅游网站---毕业设计",
-            "type": "File",
-            "path": "https://github.com/neutrino25/bdtravel",
-            "children": []
-        },
-        {
-            "id": 271226960,
-            "name": "本科毕业设计: 网络扫描器的设计与实现",
-            "type": "File",
-            "path": "https://github.com/AngelKitty/Network_Scanner",
-            "children": []
-        },
-        {
-            "id": 174563096,
-            "name": "毕业设计-飞机订票系统",
-            "type": "File",
-            "path": "https://github.com/Guns-Roses/airplane",
-            "children": []
-        },
-        {
-            "id": 180378732,
-            "name": "广东工业大学计算机学院课程攻略 - 毕业设计、校招、课程设计、实验、经验分享、论文模板、试卷、习题解答等等",
-            "type": "File",
-            "path": "https://github.com/brenner8023/gdut-course",
-            "children": []
-        },
-        {
-            "id": 122618176,
-            "name": "毕业设计-->物流管理系统的设计与实现（java）",
-            "type": "File",
-            "path": "https://github.com/yocaning/Logistics-Management-System-Java-",
-            "children": []
-        },
-        {
-            "id": 89055188,
-            "name": "毕业设计：昆虫识别和数目统计",
-            "type": "File",
-            "path": "https://github.com/veraposeidon/Insect_Identification",
-            "children": []
-        },
-        {
-            "id": 33779558,
-            "name": "毕设，根据照片生成一个3D人脸模型",
-            "type": "File",
-            "path": "https://github.com/Hunger720/AutoFace",
-            "children": []
-        },
-        {
-            "id": 285852724,
-            "name": "网络云盘（简单的毕设项目）",
-            "type": "File",
-            "path": "https://github.com/dongyusheng/cloud-disk",
-            "children": []
-        },
-        {
-            "id": 183624432,
-            "name": "毕业设计:基于深度学习的人脸识别签到系统的设计与实现",
-            "type": "File",
-            "path": "https://github.com/xg-zhang/faceRegister",
-            "children": []
-        },
-        {
-            "id": 15358926,
-            "name": "IoT, 这是一个最小Internet of Things ，一个Internet of Things相关的毕业设计产生的一个简化的物联网系统。 。",
-            "type": "File",
-            "path": "https://github.com/phodal/iot",
-            "children": []
-        },
-        {
-            "id": 273821103,
-            "name": "毕业设计-房屋租赁系统",
-            "type": "File",
-            "path": "https://github.com/SimpleGraduationProjects/HouseRentalSystem2",
-            "children": []
-        },
-        {
-            "id": 228745732,
-            "name": "毕业设计选题管理系统",
-            "type": "File",
-            "path": "https://github.com/Acescen/bysj",
-            "children": []
-        },
-        {
-            "id": 155822594,
-            "name": "毕业设计后端",
-            "type": "File",
-            "path": "https://github.com/Zo3i/CodeJsSystem",
-            "children": []
-        },
-        {
-            "id": 86543576,
-            "name": "毕业设计-旅游网站",
-            "type": "File",
-            "path": "https://github.com/MrWuqinglong/travel",
-            "children": []
-        },
-        {
-            "id": 68894346,
-            "name": "『停止维护』Android 毕业设计 —— OkHttp封装 + PHP + XAMPP + Retrofit 封装 + RxJava + MVC + 文档的成品 APP：https://github.com/nanchen2251/AiYaSchoolPush",
-            "type": "File",
-            "path": "https://github.com/nanchen2251/AiYaSchoolPush",
-            "children": []
-        },
-        {
-            "id": 127707752,
-            "name": "合肥工业大学毕业设计（论文）模板",
-            "type": "File",
-            "path": "https://github.com/netcan/HFUT_Thesis",
-            "children": []
-        },
-        {
-            "id": 60418869,
-            "name": "毕业设计《基于Web的图书推荐系统展示平台》",
-            "type": "File",
-            "path": "https://github.com/AugustLONG/dm",
-            "children": []
-        },
-        {
-            "id": 174105202,
-            "name": "基于python的电影搜索网站，python+django开发的电影链接搜索网站 - 毕业设计 - 课程设计",
-            "type": "File",
-            "path": "https://github.com/geeeeeeeek/python_bt",
-            "children": []
-        },
-        {
-            "id": 218969417,
-            "name": "心理咨询预约管理系统（javaEE），个人毕业设计",
-            "type": "File",
-            "path": "https://github.com/renshen052/mindSubscribe",
-            "children": []
-        },
-        {
-            "id": 487878698,
-            "name": "毕业设计 C-V2X漏洞挖掘 开放资源",
-            "type": "File",
-            "path": "https://github.com/xuanxuanblingbling/cv2x",
-            "children": []
-        },
-        {
-            "id": 391575501,
-            "name": "毕设，实验室设备管理系统",
-            "type": "File",
-            "path": "https://github.com/jayying007/lims",
-            "children": []
-        },
-        {
-            "id": 641933514,
-            "name": "Java商城管理系统，基于java+springboot+vue开发的电子商城网站 - 毕业设计 - 课程设计",
-            "type": "File",
-            "path": "https://github.com/geeeeeeeek/java_shop",
-            "children": []
-        },
-        {
-            "id": 57126197,
-            "name": "基于Java 中 SSH 框架的 物流配送管理系统 同时为本人的大学毕业设计 | QQ群 838664086",
-            "type": "File",
-            "path": "https://github.com/hohoTT/Logistics_Manage_System",
-            "children": []
-        },
-        {
-            "id": 78486833,
-            "name": "毕设云笔记系统",
-            "type": "File",
-            "path": "https://github.com/yangchd/CloudNote",
-            "children": []
-        },
-        {
-            "id": 114008097,
-            "name": "毕业设计 - 农业温室大棚",
-            "type": "File",
-            "path": "https://github.com/CreeperSan/Graduation-Project",
-            "children": []
-        },
-        {
-            "id": 162656666,
-            "name": "毕业设计--面向高考招生咨询的问答系统设计与实现",
-            "type": "File",
-            "path": "https://github.com/SangYuhiter/Knowledge-Map-and-Question-Answer",
-            "children": []
-        },
-        {
-            "id": 59099017,
-            "name": "西北工业大学本科毕业设计论文模版 | Thesis Template for Northwestern Polytechnical University",
-            "type": "File",
-            "path": "https://github.com/polossk/LaTeX-Template-For-NPU-Thesis",
-            "children": []
-        },
-        {
-            "id": 60965685,
-            "name": "毕业设计",
-            "type": "File",
-            "path": "https://github.com/hjzgg/Graduation_Design",
-            "children": []
-        },
-        {
-            "id": 104020157,
-            "name": "毕业设计之网上订餐系统",
-            "type": "File",
-            "path": "https://github.com/AmazingT/OrderSystem",
-            "children": []
-        },
-        {
-            "id": 205127147,
-            "name": "毕业设计二手商品买卖",
-            "type": "File",
-            "path": "https://github.com/21503882/secondhandSSM",
-            "children": []
-        },
-        {
-            "id": 259573205,
-            "name": "毕业设计：电影推荐系统",
-            "type": "File",
-            "path": "https://github.com/Nikotesla-s/MovieRecommendSystemWeb",
-            "children": []
-        },
-        {
-            "id": 172093953,
-            "name": "排名(成绩)预测（入门Python和机器学习）",
-            "type": "File",
-            "path": "https://github.com/AI-Friend/Score-Predict",
-            "children": []
-        },
-        {
-            "id": 172828236,
-            "name": "基于Python：网络爬虫获取房价信息、数据的预处理和可视化、搭建基于房价预测的机器学习模型、房价预测。",
-            "type": "File",
-            "path": "https://github.com/jimmy0k/Xiamen-siming-house",
-            "children": []
-        },
-        {
-            "id": 232549093,
-            "name": "tensorflow stock python  使用python股票预测 （慢慢更新）",
-            "type": "File",
-            "path": "https://github.com/yu-bo/stock",
+            "path": "https://github.com/HongZhaoHua/jstarcraft-rns",
+            "download_link": "https://api.github.com/repos/HongZhaoHua/jstarcraft-rns/zipball/master",
             "children": []
         },
         {
@@ -1430,6 +849,31 @@
             "name": "《Python预测之美：数据分析与算法实战》书籍代码维护",
             "type": "File",
             "path": "https://github.com/cador/Python_Predict_Analysis_Algorithm_Book_Codes",
+            "download_link": "https://api.github.com/repos/cador/Python_Predict_Analysis_Algorithm_Book_Codes/zipball/master",
+            "children": []
+        },
+        {
+            "id": 172093953,
+            "name": "排名(成绩)预测（入门Python和机器学习）",
+            "type": "File",
+            "path": "https://github.com/AI-Friend/Score-Predict",
+            "download_link": "https://api.github.com/repos/AI-Friend/Score-Predict/zipball/master",
+            "children": []
+        },
+        {
+            "id": 154438920,
+            "name": "竞赛项目集合：Rossmann销售预测(Top3%)、HousePrices(Top34%)、数字识别(Top78%)、泰坦尼克(Top83%)、能源预测③(Top36%)、未来价格预测(Top37%)、NFL大数据碗(Top61%)、厄瓜多尔连锁超市销售预测(Top48%)、StoreItemPredict(Top34%)、餐厅顾客预测(Top37%)、谷歌流量预测(Topxxx)",
+            "type": "File",
+            "path": "https://github.com/NemoHoHaloAi/Competition",
+            "download_link": "https://api.github.com/repos/NemoHoHaloAi/Competition/zipball/master",
+            "children": []
+        },
+        {
+            "id": 202838834,
+            "name": "基于ARIMA时间序列的销量预测模型，实际预测准确率达90%以上，内含有测试记录和实际上线效果。",
+            "type": "File",
+            "path": "https://github.com/SimonWang00/salesPredict",
+            "download_link": "https://api.github.com/repos/SimonWang00/salesPredict/zipball/master",
             "children": []
         },
         {
@@ -1437,69 +881,39 @@
             "name": "Python 建立的BP神经网络处理预测相关公交线路数据",
             "type": "File",
             "path": "https://github.com/yc-maltazard/BPNN_Python",
+            "download_link": "https://api.github.com/repos/yc-maltazard/BPNN_Python/zipball/master",
             "children": []
         },
         {
-            "id": 171877672,
-            "name": "python分析和预测六合彩每期特码，40%-63%的浮动正确率。我是活雷锋！",
+            "id": 232549093,
+            "name": "tensorflow stock python  使用python股票预测 （慢慢更新）",
             "type": "File",
-            "path": "https://github.com/FashtimeDotCom/hongkong.marksix",
+            "path": "https://github.com/yu-bo/stock",
+            "download_link": "https://api.github.com/repos/yu-bo/stock/zipball/master",
             "children": []
         },
         {
-            "id": 336747004,
-            "name": "《Python预测之美-数据分析与算法实战》代码维护",
+            "id": 236243763,
+            "name": "👩🏻‍⚕️Covid-19 estimation and forecast using statistical model; 新型冠状病毒肺炎统计模型预测 (Jan 2020)",
             "type": "File",
-            "path": "https://github.com/cador/prediction-python",
+            "path": "https://github.com/YiranJing/Coronavirus-Epidemic-COVID-19",
+            "download_link": "https://api.github.com/repos/YiranJing/Coronavirus-Epidemic-COVID-19/zipball/master",
             "children": []
         },
         {
-            "id": 599181090,
-            "name": "「python + django」农产品价格预测",
+            "id": 164427280,
+            "name": "不同时间序列预测方法对上海旅游规模进行预测",
             "type": "File",
-            "path": "https://github.com/Julian0197/Agri-PricePredict",
+            "path": "https://github.com/GUOxingyu3018/Tourist_Predict--A-case-of-Shangahi",
+            "download_link": "https://api.github.com/repos/GUOxingyu3018/Tourist_Predict--A-case-of-Shangahi/zipball/master",
             "children": []
         },
         {
-            "id": 589418317,
-            "name": "Python二手车价格预测案例数据挖掘",
+            "id": 172828236,
+            "name": "基于Python：网络爬虫获取房价信息、数据的预处理和可视化、搭建基于房价预测的机器学习模型、房价预测。",
             "type": "File",
-            "path": "https://github.com/YourHealer/Python-Used-car-price-PredictSys",
-            "children": []
-        },
-        {
-            "id": 403264251,
-            "name": "Python课程设计项目：基于python机器学习(ml)的天气预测和天气可视化",
-            "type": "File",
-            "path": "https://github.com/zhijianqiwu/weather",
-            "children": []
-        },
-        {
-            "id": 241133878,
-            "name": "该系列资源是Python疫情大数据分析，涉及网络爬虫、可视化分析、GIS地图、情感分析、舆情分析、主题挖掘、威胁情报溯源、知识图谱、预测预警及AI和NLP应用等。推荐大家结合作者CSDN博客阅读，武汉必胜、湖北必胜、中国必胜！",
-            "type": "File",
-            "path": "https://github.com/eastmountyxz/COVID19-data-analysis",
-            "children": []
-        },
-        {
-            "id": 48561238,
-            "name": "用python实现了隐马尔科夫模型的概率计算和预测部分，主要是前向后向算法和维特比算法",
-            "type": "File",
-            "path": "https://github.com/Eilene/HMM-python",
-            "children": []
-        },
-        {
-            "id": 155663842,
-            "name": "Python和BP神经网络之股票预测",
-            "type": "File",
-            "path": "https://github.com/walnutsandwich/matlab",
-            "children": []
-        },
-        {
-            "id": 161305957,
-            "name": "基于Python机器学习的乳腺癌预测模型",
-            "type": "File",
-            "path": "https://github.com/Mingming1998/Breast-cancer-prediction-based-on-Python-machine-learning",
+            "path": "https://github.com/jimmy0k/Xiamen-siming-house",
+            "download_link": "https://api.github.com/repos/jimmy0k/Xiamen-siming-house/zipball/master",
             "children": []
         },
         {
@@ -1507,90 +921,103 @@
             "name": "一些常用的功能型python模块接口，如：批量下载百度图片、moran指数(莫兰指数)、ARIMA、灰色预测GM(1,1)",
             "type": "File",
             "path": "https://github.com/LiuChen-China/PythonFunctions",
+            "download_link": "https://api.github.com/repos/LiuChen-China/PythonFunctions/zipball/master",
             "children": []
         },
         {
-            "id": 172628643,
-            "name": "使用眨眼+低功率蓝牙模块检测疲劳，检测到疲劳后发出语音干预，可播放声音。Python+Qt",
+            "id": 48561238,
+            "name": "用python实现了隐马尔科夫模型的概率计算和预测部分，主要是前向后向算法和维特比算法",
             "type": "File",
-            "path": "https://github.com/harrysimply/heartrate_eyeblink_detect_fatigue",
+            "path": "https://github.com/Eilene/HMM-python",
+            "download_link": "https://api.github.com/repos/Eilene/HMM-python/zipball/master",
             "children": []
         },
         {
-            "id": 207459990,
-            "name": "基于FMZ平台和python 目前已复现4个策略 自己开发了1个基于HMM的策略，趋势预测正确率可达85%",
+            "id": 336747004,
+            "name": "《Python预测之美-数据分析与算法实战》代码维护",
             "type": "File",
-            "path": "https://github.com/skydownacai/Quant-Strategy",
+            "path": "https://github.com/cador/prediction-python",
+            "download_link": "https://api.github.com/repos/cador/prediction-python/zipball/main",
             "children": []
         },
         {
-            "id": 632831894,
-            "name": "1412基于Python卷积神经网络人脸识别驾驶员疲劳检测与预警系统设计毕业源码案例设计",
+            "id": 246313173,
+            "name": "（陆续更新）重新整理过的基于机器学习的股票价格预测算法，里面包含了基本的回测系统以及各种不同的机器学习算法的股票价格预测，包含：LSTM算法、Prophet算法、AutoARIMA、朴素贝叶斯、SVM、随机森林等",
             "type": "File",
-            "path": "https://github.com/wangjianlin1985/Python_FatigueDrivingDetection",
+            "path": "https://github.com/moyuweiqing/A-stock-prediction-algorithm-based-on-machine-learning",
+            "download_link": "https://api.github.com/repos/moyuweiqing/A-stock-prediction-algorithm-based-on-machine-learning/zipball/master",
             "children": []
         },
         {
-            "id": 252146233,
-            "name": "使用python预测拟合并预测COVID-19发展的趋势",
+            "id": 348609617,
+            "name": "包含灰色预测模型：灰色单变量预测模型GM(1,1)模型，灰色多变量预测模型GM(1,N)模型，GM(1,N)幂模型，灰色多变量周期幂模型GM(1,N|sin)幂模型，以及灰色关联模型",
             "type": "File",
-            "path": "https://github.com/yangxcc/Forecast_COVID-19",
+            "path": "https://github.com/Timecollector/Grey_Model",
+            "download_link": "https://api.github.com/repos/Timecollector/Grey_Model/zipball/main",
             "children": []
         },
         {
-            "id": 139649272,
-            "name": "python机器学习预测NBA总冠军",
+            "id": 104294794,
+            "name": "天池智慧交通预测挑战赛 - 比赛经历分享",
             "type": "File",
-            "path": "https://github.com/Junv1003/NBAPrediction",
+            "path": "https://github.com/Hushengjing/Alitianchi-Guizhou-TravelTime-Prediction",
+            "download_link": "https://api.github.com/repos/Hushengjing/Alitianchi-Guizhou-TravelTime-Prediction/zipball/master",
             "children": []
         },
         {
-            "id": 195735575,
-            "name": "Python 机器学习实战：根据成绩预测大学生能否被高校录取",
+            "id": 589418317,
+            "name": "Python二手车价格预测案例数据挖掘",
             "type": "File",
-            "path": "https://github.com/ArcherLCY/LogiReg",
+            "path": "https://github.com/YourHealer/Python-Used-car-price-PredictSys",
+            "download_link": "https://api.github.com/repos/YourHealer/Python-Used-car-price-PredictSys/zipball/main",
             "children": []
         },
         {
-            "id": 118727870,
-            "name": "python预测NBA赛事",
+            "id": 171877672,
+            "name": "python分析和预测六合彩每期特码，40%-63%的浮动正确率。我是活雷锋！",
             "type": "File",
-            "path": "https://github.com/JackGitHub9501/python-NBA-",
+            "path": "https://github.com/FashtimeDotCom/hongkong.marksix",
+            "download_link": "https://api.github.com/repos/FashtimeDotCom/hongkong.marksix/zipball/master",
             "children": []
         },
         {
-            "id": 464726268,
-            "name": "python实现2022美赛C题（时间序列预测，Apriori关联规则算法...）",
+            "id": 220776326,
+            "name": "利用lightgbm做(learning to rank)排序学习，包括数据处理、模型训练、模型决策可视化、模型可解释性以及预测等。Use LightGBM to learn ranking, including data processing, model training, model decision visualization, model interpretability and prediction, etc.",
             "type": "File",
-            "path": "https://github.com/3030712382/2022-C-",
+            "path": "https://github.com/jiangnanboy/learning_to_rank",
+            "download_link": "https://api.github.com/repos/jiangnanboy/learning_to_rank/zipball/master",
             "children": []
         },
         {
-            "id": 273465452,
-            "name": "基于python的新冠肺炎疫情数据可视化及建模预测",
+            "id": 247299897,
+            "name": "提供了如何在paddle单帧图像进行预测的方式以及连接相机实时检测功能",
             "type": "File",
-            "path": "https://github.com/littlebluerr/COVID-19-Data-Visualization-and-Modeling-prediction",
+            "path": "https://github.com/yzl19940819/Paddle_infer_python",
+            "download_link": "https://api.github.com/repos/yzl19940819/Paddle_infer_python/zipball/master",
             "children": []
         },
         {
-            "id": 288503382,
-            "name": "用 n-gram 语言模型进行新闻文本内容预测。https://www.jeddd.com/article/python-ngram-language-prediction.html",
+            "id": 599181090,
+            "name": "「python + django」农产品价格预测",
             "type": "File",
-            "path": "https://github.com/Jed-Z/ngram-text-prediction",
+            "path": "https://github.com/Julian0197/Agri-PricePredict",
+            "download_link": "https://api.github.com/repos/Julian0197/Agri-PricePredict/zipball/main",
             "children": []
         },
         {
-            "id": 520751699,
-            "name": "A Eye基于python、open-cv、pywin32等类库  主要用于搭建eve手游预警机系统，支持多模拟器，支持监测多星系，支持发送游戏指定频道预警、微信预警",
+            "id": 446050956,
+            "name": "通达信股票数据处理，股价预测，性能分析，特征选择",
             "type": "File",
-            "path": "https://github.com/Sugobet/EVE_A_Eye",
+            "path": "https://github.com/jackyin68/pyprofiling",
+            "download_link": "https://api.github.com/repos/jackyin68/pyprofiling/zipball/main",
             "children": []
         },
         {
-            "id": 465735254,
-            "name": "Python空气监测及预测系统",
+            "id": 403264251,
+            "name": "Python课程设计项目：基于python机器学习(ml)的天气预测和天气可视化",
             "type": "File",
-            "path": "https://github.com/cookiehq/Weather-Prediction-System",
+            "path": "https://github.com/zhijianqiwu/weather",
+            "download_link": "https://api.github.com/repos/zhijianqiwu/weather/zipball/main",
             "children": []
         },
         {
@@ -1598,6 +1025,55 @@
             "name": "Python 数据分析案例。包含【电影评论分析】、【慕课数据分析】、【医疗花销分析】、【心脏病、癌症、糖尿病预测】",
             "type": "File",
             "path": "https://github.com/LiQiang0307/Python_DataAnalysis",
+            "download_link": "https://api.github.com/repos/LiQiang0307/Python_DataAnalysis/zipball/master",
+            "children": []
+        },
+        {
+            "id": 152402944,
+            "name": "DataCastle ICC 游戏玩家金额付费预测大赛",
+            "type": "File",
+            "path": "https://github.com/ZyzyPeter/DC-Game-pre",
+            "download_link": "https://api.github.com/repos/ZyzyPeter/DC-Game-pre/zipball/master",
+            "children": []
+        },
+        {
+            "id": 430318874,
+            "name": "基于全局和局部残差图像预测的红外目标检测",
+            "type": "File",
+            "path": "https://github.com/chaoyu1999/DRUNet",
+            "download_link": "https://api.github.com/repos/chaoyu1999/DRUNet/zipball/main",
+            "children": []
+        },
+        {
+            "id": 161305957,
+            "name": "基于Python机器学习的乳腺癌预测模型",
+            "type": "File",
+            "path": "https://github.com/Mingming1998/Breast-cancer-prediction-based-on-Python-machine-learning",
+            "download_link": "https://api.github.com/repos/Mingming1998/Breast-cancer-prediction-based-on-Python-machine-learning/zipball/master",
+            "children": []
+        },
+        {
+            "id": 89057491,
+            "name": "用sklearn的linearSVC和SVC做简单数据的预测对比",
+            "type": "File",
+            "path": "https://github.com/sileixinhua/Python_sklearn_svm_linearSVC_SVC",
+            "download_link": "https://api.github.com/repos/sileixinhua/Python_sklearn_svm_linearSVC_SVC/zipball/master",
+            "children": []
+        },
+        {
+            "id": 155663842,
+            "name": "Python和BP神经网络之股票预测",
+            "type": "File",
+            "path": "https://github.com/walnutsandwich/matlab",
+            "download_link": "https://api.github.com/repos/walnutsandwich/matlab/zipball/master",
+            "children": []
+        },
+        {
+            "id": 113841805,
+            "name": "企业经营退出风险预测，二分类问题",
+            "type": "File",
+            "path": "https://github.com/xiaorancs/business-exit-risk-forecast",
+            "download_link": "https://api.github.com/repos/xiaorancs/business-exit-risk-forecast/zipball/master",
             "children": []
         },
         {
@@ -1605,27 +1081,79 @@
             "name": "物流需求预测法的python实现（Logistics Demand Forecasting By Python），含移动平均法、指数平滑法、平滑系数的确认、结果输出到excel表、误差分析等",
             "type": "File",
             "path": "https://github.com/ishelo/Logistics-Demand-Forecasting-By-Python",
+            "download_link": "https://api.github.com/repos/ishelo/Logistics-Demand-Forecasting-By-Python/zipball/master",
             "children": []
         },
         {
-            "id": 218921474,
-            "name": "新能源汽车应用场景，基于Python，通过神经网络训练锂离子电池使用相关数据，预测电池当前最大容量",
+            "id": 258436188,
+            "name": "天池项目：新浪微博互动预测",
             "type": "File",
-            "path": "https://github.com/MewtwoXY/R_SOC_Q_ANN",
+            "path": "https://github.com/shanggangli/tianchi-Sina-weibo-interactive-prediction",
+            "download_link": "https://api.github.com/repos/shanggangli/tianchi-Sina-weibo-interactive-prediction/zipball/master",
             "children": []
         },
         {
-            "id": 266024791,
-            "name": "本项目以数据采集、处理、分析及数据可视化为项目流程，实现百万级电影数据离线处理与计算。功能包括python爬虫，Matplotlib、Echarts数据可视化、Mapreduce、hive数据统计、情感分析、词图云、电影票房与评分预测",
+            "id": 207459990,
+            "name": "基于FMZ平台和python 目前已复现4个策略 自己开发了1个基于HMM的策略，趋势预测正确率可达85%",
             "type": "File",
-            "path": "https://github.com/GoAlers/Bigdata-Movie",
+            "path": "https://github.com/skydownacai/Quant-Strategy",
+            "download_link": "https://api.github.com/repos/skydownacai/Quant-Strategy/zipball/master",
             "children": []
         },
         {
-            "id": 214656189,
-            "name": "python 学生成绩预测 使用KNN算法",
+            "id": 477281016,
+            "name": "旋转验证码绕过, 本项目是基于 构建图像特征库 预测验证码旋转角度的一种解决方案  欢迎 Star ⭐",
             "type": "File",
-            "path": "https://github.com/houxiaona/PythonForecastGrade",
+            "path": "https://github.com/decodecaptcha/Rotate-Captcha-Angle-Prediction",
+            "download_link": "https://api.github.com/repos/decodecaptcha/Rotate-Captcha-Angle-Prediction/zipball/main",
+            "children": []
+        },
+        {
+            "id": 252146233,
+            "name": "使用python预测拟合并预测COVID-19发展的趋势",
+            "type": "File",
+            "path": "https://github.com/yangxcc/Forecast_COVID-19",
+            "download_link": "https://api.github.com/repos/yangxcc/Forecast_COVID-19/zipball/master",
+            "children": []
+        },
+        {
+            "id": 118727870,
+            "name": "python预测NBA赛事",
+            "type": "File",
+            "path": "https://github.com/JackGitHub9501/python-NBA-",
+            "download_link": "https://api.github.com/repos/JackGitHub9501/python-NBA-/zipball/master",
+            "children": []
+        },
+        {
+            "id": 222344375,
+            "name": "对部分城市空气质量指数相关数据分析，解决相关问题，以及用回归方程建模预测新城市空气质量",
+            "type": "File",
+            "path": "https://github.com/bingkanon/City_AQI_python",
+            "download_link": "https://api.github.com/repos/bingkanon/City_AQI_python/zipball/master",
+            "children": []
+        },
+        {
+            "id": 139649272,
+            "name": "python机器学习预测NBA总冠军",
+            "type": "File",
+            "path": "https://github.com/Junv1003/NBAPrediction",
+            "download_link": "https://api.github.com/repos/Junv1003/NBAPrediction/zipball/master",
+            "children": []
+        },
+        {
+            "id": 226051526,
+            "name": "国能日新第二届光伏功率预测赛rank25 ",
+            "type": "File",
+            "path": "https://github.com/jsnuwjl/Photovoltaic_power",
+            "download_link": "https://api.github.com/repos/jsnuwjl/Photovoltaic_power/zipball/master",
+            "children": []
+        },
+        {
+            "id": 195735575,
+            "name": "Python 机器学习实战：根据成绩预测大学生能否被高校录取",
+            "type": "File",
+            "path": "https://github.com/ArcherLCY/LogiReg",
+            "download_link": "https://api.github.com/repos/ArcherLCY/LogiReg/zipball/master",
             "children": []
         },
         {
@@ -1633,111 +1161,7 @@
             "name": "基于Springboot+Vue+Python深度神经网络学习算法水质管理预测系统设计毕业源码案例设计",
             "type": "File",
             "path": "https://github.com/wangjianlin1985/Springboot_Vue_Python_Water_quality_management_prediction",
-            "children": []
-        },
-        {
-            "id": 224997768,
-            "name": "学习吴恩达视频，完成一个小project。使用梯度下降、正则化、神经网络进行房价的预测。使用python中的numpy、scipy、pandas以及matplotlib完成编程的实现。",
-            "type": "File",
-            "path": "https://github.com/June2Hua/machinLearningProject",
-            "children": []
-        },
-        {
-            "id": 262478135,
-            "name": "使用Python复现Black-Litterman模型。Black-Litterman模型创造性地采用贝叶斯方法将投资者对预期收益的主观看法与资产的市场均衡收益相结合，有效地解决了Markowitz均值-方差模型中投资者难以准确估计各个投资品种预期收益率、以及其权重对预期收益率的极度敏感性这两大问题。本项目使用美国市场2009年-2019年十年间的10只股票数据进行回测，证明了合理观点对资产组合收益率具有显著的正面影响效果。",
-            "type": "File",
-            "path": "https://github.com/jrothschild33/Black-Litterman-Model",
-            "children": []
-        },
-        {
-            "id": 299253955,
-            "name": "根据用户数据以及消费行为数据，使用Python建立分类模型，进行逻辑回归，预测使用优惠券概率较高的客群",
-            "type": "File",
-            "path": "https://github.com/wenwen116/tianmao",
-            "children": []
-        },
-        {
-            "id": 276268173,
-            "name": "使用python下的sklearn机器学习库实现机票价格预测，进行判断何时飞价格最低",
-            "type": "File",
-            "path": "https://github.com/YuQuankun/Flight-price-predict-by-python",
-            "children": []
-        },
-        {
-            "id": 316957102,
-            "name": "Python，编译原理，语法分析器：预测分析、LL(1)分析、LR(0)分析 ",
-            "type": "File",
-            "path": "https://github.com/Suggie-Chen/parser",
-            "children": []
-        },
-        {
-            "id": 139675646,
-            "name": "本项目是采用Python语言结合机器学习中的常用算法来对微博传播过程中的转发进行预测。",
-            "type": "File",
-            "path": "https://github.com/moxiaohei/weibo_predict",
-            "children": []
-        },
-        {
-            "id": 554194259,
-            "name": "2022年数学建模国赛代码--matlab 其实也用了部分python 主要是用它做线性回归预测 再没其他的了 剩下还是偏向于matlab的的实用性",
-            "type": "File",
-            "path": "https://github.com/Ggy-king/2022-Mathematical-Modeling-National-Code",
-            "children": []
-        },
-        {
-            "id": 194821265,
-            "name": "使用knn和朴素贝叶斯算法预测居民出行目的地，主要基于Scala和python语言编写，运行在spark分布式集群。",
-            "type": "File",
-            "path": "https://github.com/skz8845/Destination-Prediction-",
-            "children": []
-        },
-        {
-            "id": 90693357,
-            "name": "一个完全基于numpy等基础python库手写的深度学习神经网络，实现美国共享单车的预测",
-            "type": "File",
-            "path": "https://github.com/omnigeeker/dlnd_first-neural-network",
-            "children": []
-        },
-        {
-            "id": 507545901,
-            "name": "自己在21年的毕设，短期预测，用的python，电气本科专业，技术有限",
-            "type": "File",
-            "path": "https://github.com/waterinput/Graduation-Short-term-forecasting-of-power-load-based-on-neural-network",
-            "children": []
-        },
-        {
-            "id": 420914146,
-            "name": "只用opencv-python和numpy进行YOLOv5 导出onnx模型进行推理预测，摆脱深度学习框架",
-            "type": "File",
-            "path": "https://github.com/lg18692410494/YOLOV5-onnx-OpenCV-Python-",
-            "children": []
-        },
-        {
-            "id": 182030385,
-            "name": "这是一个使用Python和PyQt5开发的一个计算机视觉辅助裂缝标注工具，标注工具先用边缘检测和形态学方法预识别裂缝，然后人工对结果进行标涂或擦除。除了此方法，工具还有其他多种方法，详情请见readme.md的介绍",
-            "type": "File",
-            "path": "https://github.com/TQCAI/crack-label-tool",
-            "children": []
-        },
-        {
-            "id": 279873744,
-            "name": "本项目是对银行客户不同条件下购买理财产品的预测。使用python对各个因素进行分析，之后使用决策树CART算法对模型进行训练，使用k折交叉验证和网格搜索选择最优参数。使用得到的模型对客户购买理财产品进行预测。",
-            "type": "File",
-            "path": "https://github.com/xue926/-Customer-purchase-forecast",
-            "children": []
-        },
-        {
-            "id": 537952880,
-            "name": "2022建模国赛代码(三天坚持不易) 包括K-meas算法、bp预测、回归预测,(python和matlab做的)",
-            "type": "File",
-            "path": "https://github.com/Ggy-king/2022-Mathematical-Modeling-in-China-Competition",
-            "children": []
-        },
-        {
-            "id": 440928839,
-            "name": "计算机毕业设计Python招聘爬虫可视化系统 招聘推荐系统 招聘薪资预测系统 大数据毕业设计(机器学习：推荐+预测+爬虫+可视化)",
-            "type": "File",
-            "path": "https://github.com/bysj2022NB/boss_spider_flask_nb6666_2022",
+            "download_link": "https://api.github.com/repos/wangjianlin1985/Springboot_Vue_Python_Water_quality_management_prediction/zipball/master",
             "children": []
         },
         {
@@ -1745,97 +1169,63 @@
             "name": "基于python与Anaconda Navigator软件的历年影片数据分析，通过数据再基于机器学习来获取影片的最佳阵容，最后预测以最佳整容去拍摄一部电影时所获取的票房与评分。",
             "type": "File",
             "path": "https://github.com/Yangyi0011/python-DataAnalysis",
+            "download_link": "https://api.github.com/repos/Yangyi0011/python-DataAnalysis/zipball/master",
             "children": []
         },
         {
-            "id": 41398230,
-            "name": "在 word2vec 基础上进行二次开发，添加 python 接口，词典 load，预测，特殊输入序列等封装，方便不同方式的使用。",
+            "id": 464726268,
+            "name": "python实现2022美赛C题（时间序列预测，Apriori关联规则算法...）",
             "type": "File",
-            "path": "https://github.com/nickgu/boost_word2vec",
+            "path": "https://github.com/3030712382/2022-C-",
+            "download_link": "https://api.github.com/repos/3030712382/2022-C-/zipball/main",
             "children": []
         },
         {
-            "id": 137386675,
-            "name": "使用Python完成一个完整的机器学习项目：能源之星分数预测",
+            "id": 273465452,
+            "name": "基于python的新冠肺炎疫情数据可视化及建模预测",
             "type": "File",
-            "path": "https://github.com/Bugdragon/energy_star_score",
+            "path": "https://github.com/littlebluerr/COVID-19-Data-Visualization-and-Modeling-prediction",
+            "download_link": "https://api.github.com/repos/littlebluerr/COVID-19-Data-Visualization-and-Modeling-prediction/zipball/master",
             "children": []
         },
         {
-            "id": 316937413,
-            "name": "本项目利用Python的scrapy框架爬取链家网的上海市租房信息，利用pandas、numpy、matplotlib、seaborn、folium 、wordcloud 等库进行数据分析和可视化，通过one-hot编码和文本特征提取出120个训练特征，搭建3层神经网络对上海市租房价格进行预测。",
+            "id": 214656189,
+            "name": "python 学生成绩预测 使用KNN算法",
             "type": "File",
-            "path": "https://github.com/MaiMeng1204/Predict-house-rent-with-neutral-network",
+            "path": "https://github.com/houxiaona/PythonForecastGrade",
+            "download_link": "https://api.github.com/repos/houxiaona/PythonForecastGrade/zipball/master",
             "children": []
         },
         {
-            "id": 75861618,
-            "name": "大气质量监测系统：树莓派开gpio读取传感器并上传云端，同时有触屏显示界面；跨平台客户端从云端读取数据，并作3d显示；用php写的微信公众号服务器程序，支持查询、订阅和报警；用Python写了机器学习的线性回归和在线学习，来预测第二天的空气质量",
+            "id": 288503382,
+            "name": "用 n-gram 语言模型进行新闻文本内容预测。https://www.jeddd.com/article/python-ngram-language-prediction.html",
             "type": "File",
-            "path": "https://github.com/zhangsheng377/air_monitor",
+            "path": "https://github.com/Jed-Z/ngram-text-prediction",
+            "download_link": "https://api.github.com/repos/Jed-Z/ngram-text-prediction/zipball/master",
             "children": []
         },
         {
-            "id": 258431726,
-            "name": "Used for study of company.  用于公司研究, 包括公司财报分析, 公司估值等, 使用了python的编译器ply的lexer,yacc来处理非结构化数据,采用神经网络来预测市场趋势.",
+            "id": 241133878,
+            "name": "该系列资源是Python疫情大数据分析，涉及网络爬虫、可视化分析、GIS地图、情感分析、舆情分析、主题挖掘、威胁情报溯源、知识图谱、预测预警及AI和NLP应用等。推荐大家结合作者CSDN博客阅读，武汉必胜、湖北必胜、中国必胜！",
             "type": "File",
-            "path": "https://github.com/hadoop2014/StudyOnCompany",
+            "path": "https://github.com/eastmountyxz/COVID19-data-analysis",
+            "download_link": "https://api.github.com/repos/eastmountyxz/COVID19-data-analysis/zipball/master",
             "children": []
         },
         {
-            "id": 357907171,
-            "name": "初步研发了一套基于机器学习方法Scikit-learn(sklearn)与Python结合实现的气象预报以及气象动态展示系统，本系统分为两个模块。第一个模块为气象信息动态展示模块，第二个模块为气象预测模块。",
+            "id": 276268173,
+            "name": "使用python下的sklearn机器学习库实现机票价格预测，进行判断何时飞价格最低",
             "type": "File",
-            "path": "https://github.com/ZhsKevin/WeatherViewable",
+            "path": "https://github.com/YuQuankun/Flight-price-predict-by-python",
+            "download_link": "https://api.github.com/repos/YuQuankun/Flight-price-predict-by-python/zipball/master",
             "children": []
         },
         {
-            "id": 145553672,
-            "name": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",
+            "id": 174780243,
+            "name": "IJCAI-18 阿里妈妈搜索广告转化预测-第21名",
             "type": "File",
-            "path": "https://github.com/fighting41love/funNLP",
-            "children": []
-        },
-        {
-            "id": 460920766,
-            "name": "计算机毕业设计之Spark+Flink+Python考研预测分析 考研院校推荐系统 考研大数据分析大屏",
-            "type": "File",
-            "path": "https://github.com/bysj2022NB/spark_flink_kaoyan_rec_nb2022",
-            "children": []
-        },
-        {
-            "id": 441448900,
-            "name": "计算机毕业设计之大数据机器学习Python+SpringBoot考研分数分析与预测系统 大数据毕业设计 考研大数据分析 考研大数据预测 考研数据分析 KNN算法 人工智能",
-            "type": "File",
-            "path": "https://github.com/bysj2022NB/python_springboot_ky",
-            "children": []
-        },
-        {
-            "id": 125961732,
-            "name": "python股票预测测试",
-            "type": "File",
-            "path": "https://github.com/dukemanZxy/pwork",
-            "children": []
-        },
-        {
-            "id": 597635181,
-            "name": "计算机毕业设计逆天版Python+Spark智慧城市交通大数据 交通流量预测 交通爬虫 地铁客流量分析 大数据毕业设计 大数据毕设 深度学习 机器学习",
-            "type": "File",
-            "path": "https://github.com/bysj2022NB/traffic_predict_nb2099_bigdata888",
-            "children": []
-        },
-        {
-            "id": 82039229,
-            "name": "《Python 机器学习——预测分析核心算法》中一些相关代码（并没有完全一样，稍微有改动）",
-            "type": "File",
-            "path": "https://github.com/Crazydogs/python_machine_learning_example",
-            "children": []
-        },
-        {
-            "id": 269959972,
-            "name": "基于高德地图API，开发了一个能自动爬取、处理、分析、预测车速数据的软件，用的python编程语言，pyqt5",
-            "type": "File",
-            "path": "https://github.com/chenguoqiang-transportation-boy/speed_predict",
+            "path": "https://github.com/Qiwc/IJCAI-18-CTR",
+            "download_link": "https://api.github.com/repos/Qiwc/IJCAI-18-CTR/zipball/master",
             "children": []
         },
         {
@@ -1843,48 +1233,191 @@
             "name": "python 库：numpy matplotlib keras tensorflow opencv  作品：图像处理 数字识别  人脸识别系统 量子力学势能波函数预测等",
             "type": "File",
             "path": "https://github.com/2464326176/python",
+            "download_link": "https://api.github.com/repos/2464326176/python/zipball/master",
             "children": []
         },
         {
-            "id": 159165784,
-            "name": "上海写字楼租金预测——包含预处理数据源和python实验代码",
+            "id": 128713650,
+            "name": "Disney 客流预测服务",
             "type": "File",
-            "path": "https://github.com/Leppard/OfficeBuildingRentForecast",
+            "path": "https://github.com/17disney/forecast-service",
+            "download_link": "https://api.github.com/repos/17disney/forecast-service/zipball/master",
             "children": []
         },
         {
-            "id": 627793109,
-            "name": "利用python完成一个简单的股票时序数据的预测",
+            "id": 218921474,
+            "name": "新能源汽车应用场景，基于Python，通过神经网络训练锂离子电池使用相关数据，预测电池当前最大容量",
             "type": "File",
-            "path": "https://github.com/ZJF-Thunder/Stock_Data_Analysis",
+            "path": "https://github.com/MewtwoXY/R_SOC_Q_ANN",
+            "download_link": "https://api.github.com/repos/MewtwoXY/R_SOC_Q_ANN/zipball/master",
             "children": []
         },
         {
-            "id": 633708259,
-            "name": "1356基于Python卷积神经网络人脸识别驾驶员疲劳检测与预警系统设计毕业源码案例设计",
+            "id": 266024791,
+            "name": "本项目以数据采集、处理、分析及数据可视化为项目流程，实现百万级电影数据离线处理与计算。功能包括python爬虫，Matplotlib、Echarts数据可视化、Mapreduce、hive数据统计、情感分析、词图云、电影票房与评分预测",
             "type": "File",
-            "path": "https://github.com/wangjianlin1985/Python_ConvolutionalNeuralNetwork_FaceRecognition_fatiguedriving",
+            "path": "https://github.com/GoAlers/Bigdata-Movie",
+            "download_link": "https://api.github.com/repos/GoAlers/Bigdata-Movie/zipball/master",
             "children": []
         },
         {
-            "id": 276373650,
-            "name": "紧致预测树的Python实现，定义两个类，一个用以预测树结构的操作，包括判断子节点和父节点、返回节点值等。一个用以预测树模型的实现，包括插入数据、倒排索引、预测的分值计算、预测的准确率测试等函数。",
+            "id": 465735254,
+            "name": "Python空气监测及预测系统",
             "type": "File",
-            "path": "https://github.com/Andersonyoyo/CPT",
+            "path": "https://github.com/cookiehq/Weather-Prediction-System",
+            "download_link": "https://api.github.com/repos/cookiehq/Weather-Prediction-System/zipball/main",
             "children": []
         },
         {
-            "id": 569132513,
-            "name": "计算机毕业设计答辩通过Python+Spark机器学习天气预测系统 天气可视化 天气爬虫 天气大数据 天气数据分析 气象数据分析 大数据毕业设计 大数据毕设",
+            "id": 316937413,
+            "name": "本项目利用Python的scrapy框架爬取链家网的上海市租房信息，利用pandas、numpy、matplotlib、seaborn、folium 、wordcloud 等库进行数据分析和可视化，通过one-hot编码和文本特征提取出120个训练特征，搭建3层神经网络对上海市租房价格进行预测。",
             "type": "File",
-            "path": "https://github.com/bysj2022NB/weather2024_bigdata2024_nb666_spark_hadoop_knn_cnn",
+            "path": "https://github.com/MaiMeng1204/Predict-house-rent-with-neutral-network",
+            "download_link": "https://api.github.com/repos/MaiMeng1204/Predict-house-rent-with-neutral-network/zipball/master",
             "children": []
         },
         {
-            "id": 174447011,
-            "name": "深度学习下java调用Python执行模型预测或者识别,读取识别结果",
+            "id": 420914146,
+            "name": "只用opencv-python和numpy进行YOLOv5 导出onnx模型进行推理预测，摆脱深度学习框架",
             "type": "File",
-            "path": "https://github.com/zou-Jack/Java_python",
+            "path": "https://github.com/lg18692410494/YOLOV5-onnx-OpenCV-Python-",
+            "download_link": "https://api.github.com/repos/lg18692410494/YOLOV5-onnx-OpenCV-Python-/zipball/main",
+            "children": []
+        },
+        {
+            "id": 224997768,
+            "name": "学习吴恩达视频，完成一个小project。使用梯度下降、正则化、神经网络进行房价的预测。使用python中的numpy、scipy、pandas以及matplotlib完成编程的实现。",
+            "type": "File",
+            "path": "https://github.com/June2Hua/machinLearningProject",
+            "download_link": "https://api.github.com/repos/June2Hua/machinLearningProject/zipball/master",
+            "children": []
+        },
+        {
+            "id": 501566942,
+            "name": "基于深度学习的气象预测",
+            "type": "File",
+            "path": "https://github.com/chimeElm/weatherFcst",
+            "download_link": "https://api.github.com/repos/chimeElm/weatherFcst/zipball/main",
+            "children": []
+        },
+        {
+            "id": 441448900,
+            "name": "计算机毕业设计之大数据机器学习Python+SpringBoot考研分数分析与预测系统 大数据毕业设计 考研大数据分析 考研大数据预测 考研数据分析 KNN算法 人工智能",
+            "type": "File",
+            "path": "https://github.com/bysj2022NB/python_springboot_ky",
+            "download_link": "https://api.github.com/repos/bysj2022NB/python_springboot_ky/zipball/main",
+            "children": []
+        },
+        {
+            "id": 600100716,
+            "name": "[豆瓣+猫眼]电影数据可视化及票房影响因素分析与预测",
+            "type": "File",
+            "path": "https://github.com/fengxin-zhxx/douban-master",
+            "download_link": "https://api.github.com/repos/fengxin-zhxx/douban-master/zipball/main",
+            "children": []
+        },
+        {
+            "id": 299253955,
+            "name": "根据用户数据以及消费行为数据，使用Python建立分类模型，进行逻辑回归，预测使用优惠券概率较高的客群",
+            "type": "File",
+            "path": "https://github.com/wenwen116/tianmao",
+            "download_link": "https://api.github.com/repos/wenwen116/tianmao/zipball/master",
+            "children": []
+        },
+        {
+            "id": 316957102,
+            "name": "Python，编译原理，语法分析器：预测分析、LL(1)分析、LR(0)分析 ",
+            "type": "File",
+            "path": "https://github.com/Suggie-Chen/parser",
+            "download_link": "https://api.github.com/repos/Suggie-Chen/parser/zipball/master",
+            "children": []
+        },
+        {
+            "id": 139675646,
+            "name": "本项目是采用Python语言结合机器学习中的常用算法来对微博传播过程中的转发进行预测。",
+            "type": "File",
+            "path": "https://github.com/moxiaohei/weibo_predict",
+            "download_link": "https://api.github.com/repos/moxiaohei/weibo_predict/zipball/master",
+            "children": []
+        },
+        {
+            "id": 82039229,
+            "name": "《Python 机器学习——预测分析核心算法》中一些相关代码（并没有完全一样，稍微有改动）",
+            "type": "File",
+            "path": "https://github.com/Crazydogs/python_machine_learning_example",
+            "download_link": "https://api.github.com/repos/Crazydogs/python_machine_learning_example/zipball/master",
+            "children": []
+        },
+        {
+            "id": 228632478,
+            "name": "音乐流行趋势预测系统的设计与实现",
+            "type": "File",
+            "path": "https://github.com/yysCyber/graduation-project",
+            "download_link": "https://api.github.com/repos/yysCyber/graduation-project/zipball/master",
+            "children": []
+        },
+        {
+            "id": 177786115,
+            "name": "快递行业货量预测、产品趋势预测",
+            "type": "File",
+            "path": "https://github.com/weiyunleicy/linear-regression--python",
+            "download_link": "https://api.github.com/repos/weiyunleicy/linear-regression--python/zipball/master",
+            "children": []
+        },
+        {
+            "id": 554194259,
+            "name": "2022年数学建模国赛代码--matlab 其实也用了部分python 主要是用它做线性回归预测 再没其他的了 剩下还是偏向于matlab的的实用性",
+            "type": "File",
+            "path": "https://github.com/Ggy-king/2022-Mathematical-Modeling-National-Code",
+            "download_link": "https://api.github.com/repos/Ggy-king/2022-Mathematical-Modeling-National-Code/zipball/main",
+            "children": []
+        },
+        {
+            "id": 194821265,
+            "name": "使用knn和朴素贝叶斯算法预测居民出行目的地，主要基于Scala和python语言编写，运行在spark分布式集群。",
+            "type": "File",
+            "path": "https://github.com/skz8845/Destination-Prediction-",
+            "download_link": "https://api.github.com/repos/skz8845/Destination-Prediction-/zipball/master",
+            "children": []
+        },
+        {
+            "id": 90693357,
+            "name": "一个完全基于numpy等基础python库手写的深度学习神经网络，实现美国共享单车的预测",
+            "type": "File",
+            "path": "https://github.com/omnigeeker/dlnd_first-neural-network",
+            "download_link": "https://api.github.com/repos/omnigeeker/dlnd_first-neural-network/zipball/master",
+            "children": []
+        },
+        {
+            "id": 507545901,
+            "name": "自己在21年的毕设，短期预测，用的python，电气本科专业，技术有限",
+            "type": "File",
+            "path": "https://github.com/waterinput/Graduation-Short-term-forecasting-of-power-load-based-on-neural-network",
+            "download_link": "https://api.github.com/repos/waterinput/Graduation-Short-term-forecasting-of-power-load-based-on-neural-network/zipball/main",
+            "children": []
+        },
+        {
+            "id": 137846047,
+            "name": "处理招商银行中的数据，并预测新用户在招商银行客户端下单消费的概率",
+            "type": "File",
+            "path": "https://github.com/BigBaiNB/ChinaMerchantsBank_python_BigData",
+            "download_link": "https://api.github.com/repos/BigBaiNB/ChinaMerchantsBank_python_BigData/zipball/master",
+            "children": []
+        },
+        {
+            "id": 675252104,
+            "name": "本项目是对《Neural Networks from Scratch in Python》读后的总结，在本项目中将应用Python（numpy）从0开始实现一个全连接神经网络，提供所有可运行代码，并对每一段代码加入注释（自己的理解）。本项目内容包括：全连接层、激活函数、损失函数、梯度、反向传播、优化器、正则化、dropout、数据集处理、模型验证、参数保存和下载、预测推理。",
+            "type": "File",
+            "path": "https://github.com/HX-1234/Neural-Networks-from-Scratch-in-Python",
+            "download_link": "https://api.github.com/repos/HX-1234/Neural-Networks-from-Scratch-in-Python/zipball/main",
+            "children": []
+        },
+        {
+            "id": 301581736,
+            "name": "最新预测线使用WebApi发布. 合作网站 bandoristation.com",
+            "type": "File",
+            "path": "https://github.com/Electronicute/Rinko-Predict-Python",
+            "download_link": "https://api.github.com/repos/Electronicute/Rinko-Predict-Python/zipball/main",
             "children": []
         },
         {
@@ -1892,13 +1425,111 @@
             "name": "计算机毕业设计吊炸天Python+Spark地铁客流数据分析与预测系统 地铁大数据 地铁流量预测 地铁爬虫 地铁客流量分析 大数据毕业设计 大数据毕设 机器学习 深度学习",
             "type": "File",
             "path": "https://github.com/bysj2022NB/python_spark_metro_predict_bigdata_nb2099",
+            "download_link": "https://api.github.com/repos/bysj2022NB/python_spark_metro_predict_bigdata_nb2099/zipball/main",
             "children": []
         },
         {
-            "id": 182818057,
-            "name": "福建体彩大乐透预测，只是个人用来学习python！",
+            "id": 479391034,
+            "name": "数据挖掘——电信客户流失预测与分析",
             "type": "File",
-            "path": "https://github.com/bjb421361141/sportsLotteryForecast",
+            "path": "https://github.com/Howtyee/Data_Mining",
+            "download_link": "https://api.github.com/repos/Howtyee/Data_Mining/zipball/master",
+            "children": []
+        },
+        {
+            "id": 174447011,
+            "name": "深度学习下java调用Python执行模型预测或者识别,读取识别结果",
+            "type": "File",
+            "path": "https://github.com/zou-Jack/Java_python",
+            "download_link": "https://api.github.com/repos/zou-Jack/Java_python/zipball/master",
+            "children": []
+        },
+        {
+            "id": 163265538,
+            "name": "2018年全球程序员大赛参赛作品, 在给定的数据基础上,加上自己采集的飞机、天气等影响因子, 利用svm算法预测航班延误率.",
+            "type": "File",
+            "path": "https://github.com/amazingcoderpro/flight-delay-prediction",
+            "download_link": "https://api.github.com/repos/amazingcoderpro/flight-delay-prediction/zipball/master",
+            "children": []
+        },
+        {
+            "id": 279873744,
+            "name": "本项目是对银行客户不同条件下购买理财产品的预测。使用python对各个因素进行分析，之后使用决策树CART算法对模型进行训练，使用k折交叉验证和网格搜索选择最优参数。使用得到的模型对客户购买理财产品进行预测。",
+            "type": "File",
+            "path": "https://github.com/xue926/-Customer-purchase-forecast",
+            "download_link": "https://api.github.com/repos/xue926/-Customer-purchase-forecast/zipball/master",
+            "children": []
+        },
+        {
+            "id": 537952880,
+            "name": "2022建模国赛代码(三天坚持不易) 包括K-meas算法、bp预测、回归预测,(python和matlab做的)",
+            "type": "File",
+            "path": "https://github.com/Ggy-king/2022-Mathematical-Modeling-in-China-Competition",
+            "download_link": "https://api.github.com/repos/Ggy-king/2022-Mathematical-Modeling-in-China-Competition/zipball/main",
+            "children": []
+        },
+        {
+            "id": 440928839,
+            "name": "计算机毕业设计Python招聘爬虫可视化系统 招聘推荐系统 招聘薪资预测系统 大数据毕业设计(机器学习：推荐+预测+爬虫+可视化)",
+            "type": "File",
+            "path": "https://github.com/bysj2022NB/boss_spider_flask_nb6666_2022",
+            "download_link": "https://api.github.com/repos/bysj2022NB/boss_spider_flask_nb6666_2022/zipball/main",
+            "children": []
+        },
+        {
+            "id": 156361105,
+            "name": "京東算法 - 高潜用户购买意向预测",
+            "type": "File",
+            "path": "https://github.com/paristsai/jdata",
+            "download_link": "https://api.github.com/repos/paristsai/jdata/zipball/master",
+            "children": []
+        },
+        {
+            "id": 41398230,
+            "name": "在 word2vec 基础上进行二次开发，添加 python 接口，词典 load，预测，特殊输入序列等封装，方便不同方式的使用。",
+            "type": "File",
+            "path": "https://github.com/nickgu/boost_word2vec",
+            "download_link": "https://api.github.com/repos/nickgu/boost_word2vec/zipball/master",
+            "children": []
+        },
+        {
+            "id": 137386675,
+            "name": "使用Python完成一个完整的机器学习项目：能源之星分数预测",
+            "type": "File",
+            "path": "https://github.com/Bugdragon/energy_star_score",
+            "download_link": "https://api.github.com/repos/Bugdragon/energy_star_score/zipball/master",
+            "children": []
+        },
+        {
+            "id": 613193667,
+            "name": "该项目是一个用于实现各种机器学习算法预测的 GUI 框架。",
+            "type": "File",
+            "path": "https://github.com/liyihang1024/Machine-Learning-Toolkit",
+            "download_link": "https://api.github.com/repos/liyihang1024/Machine-Learning-Toolkit/zipball/main",
+            "children": []
+        },
+        {
+            "id": 258431726,
+            "name": "Used for study of company.  用于公司研究, 包括公司财报分析, 公司估值等, 使用了python的编译器ply的lexer,yacc来处理非结构化数据,采用神经网络来预测市场趋势.",
+            "type": "File",
+            "path": "https://github.com/hadoop2014/StudyOnCompany",
+            "download_link": "https://api.github.com/repos/hadoop2014/StudyOnCompany/zipball/master",
+            "children": []
+        },
+        {
+            "id": 248132018,
+            "name": "基于对TMDB-5000-MovieAnalysis数据集进行的一些数据分析以及建立了一个简单模型来对电影评分进行预测",
+            "type": "File",
+            "path": "https://github.com/Aoshika123/Python-TMDB-5000-MovieAnalysis",
+            "download_link": "https://api.github.com/repos/Aoshika123/Python-TMDB-5000-MovieAnalysis/zipball/master",
+            "children": []
+        },
+        {
+            "id": 141037300,
+            "name": "风机预测",
+            "type": "File",
+            "path": "https://github.com/Zhanggaili/python_code_v1",
+            "download_link": "https://api.github.com/repos/Zhanggaili/python_code_v1/zipball/master",
             "children": []
         },
         {
@@ -1906,160 +1537,15 @@
             "name": "利用Python基于spark ml构建的web应用，通过web页面实现数据集操作、模型构建并进行预测，可以实现单事例预测和集合事例的预测",
             "type": "File",
             "path": "https://github.com/SongGary/spark_ml_platform",
+            "download_link": "https://api.github.com/repos/SongGary/spark_ml_platform/zipball/master",
             "children": []
         },
         {
-            "id": 807405303,
-            "name": "本项目是一个由我个人开发的python机器学习项目，基于BP、SVR、随机森林的农业粮食产量预测，对比了三种机器学习算法的预测效果。",
+            "id": 872197147,
+            "name": "计算机毕业设计Python+LSTM预测模型股票分析预测 股票量化分析与预测系统 股票可视化 股票大数据 股票爬虫 Tensorflow PyTorch 深度学习 机器学习",
             "type": "File",
-            "path": "https://github.com/Heavyapples/Agricultural-grain-yield-prediction-based-on-BP-SVR-and-random-forest",
-            "children": []
-        },
-        {
-            "id": 521842186,
-            "name": "bp神经网络的预测 matlab和python实现 个人觉得python更简单点 （因为在写matlab的时候总是出现工具式错误）",
-            "type": "File",
-            "path": "https://github.com/Ggy-king/BP-neural-network",
-            "children": []
-        },
-        {
-            "id": 443344874,
-            "name": "python-热力学参数预测",
-            "type": "File",
-            "path": "https://github.com/cat-lifer/python-thermalparameters",
-            "children": []
-        },
-        {
-            "id": 166321290,
-            "name": "python股票分析与预测",
-            "type": "File",
-            "path": "https://github.com/wjs1223/python-stock-analysis-and-Prediction",
-            "children": []
-        },
-        {
-            "id": 85825089,
-            "name": "python实现，预测剪接位点",
-            "type": "File",
-            "path": "https://github.com/chenyufanxin/WAM-",
-            "children": []
-        },
-        {
-            "id": 749045153,
-            "name": "使用python进行股票预测",
-            "type": "File",
-            "path": "https://github.com/StCHmyl/stock-forecast",
-            "children": []
-        },
-        {
-            "id": 87919594,
-            "name": "用python处理数据并预测",
-            "type": "File",
-            "path": "https://github.com/Dxwind/--py",
-            "children": []
-        },
-        {
-            "id": 193823907,
-            "name": "python基于prophet的预测模型",
-            "type": "File",
-            "path": "https://github.com/Brookliu-mq/prophet",
-            "children": []
-        },
-        {
-            "id": 128634316,
-            "name": "用python写的朴素贝叶斯demo，垃圾邮件的预测",
-            "type": "File",
-            "path": "https://github.com/chenjunming/Bayes",
-            "children": []
-        },
-        {
-            "id": 391127691,
-            "name": "Python implemented code of 丁润康.<基于医保数据的疾病预测和转诊行为分析>",
-            "type": "File",
-            "path": "https://github.com/Weiren-Wang/Personal_Disease_Predict",
-            "children": []
-        },
-        {
-            "id": 807407773,
-            "name": "本项目是一个由我个人开发的python机器学习项目，数据在PCA降维后基于ELM、SVR、随机森林、LSTM的北京游客预测，对比了四种机器学习算法的预测效果。",
-            "type": "File",
-            "path": "https://github.com/Heavyapples/Prediction-of-Beijing-Tourists-Based-on-ELM-SVR-Random-Forest-and-LSTM",
-            "children": []
-        },
-        {
-            "id": 608456085,
-            "name": "python算法 空压机温度预测",
-            "type": "File",
-            "path": "https://github.com/122098345/temperature-prediction",
-            "children": []
-        },
-        {
-            "id": 347996462,
-            "name": "Python大模型预测， 基于covid-19",
-            "type": "File",
-            "path": "https://github.com/JellyLiu2001/Big-Project",
-            "children": []
-        },
-        {
-            "id": 738853578,
-            "name": "我们这一个期末大作业，我做的是地震预测，利用Python将地震预测的部分给实现了。但是有几个点还可以添加一下功能，比如说我们训练模型进行回归预测，还有对地震预警算法",
-            "type": "File",
-            "path": "https://github.com/WillianBTANT/EarthquakeForecast",
-            "children": []
-        },
-        {
-            "id": 886027541,
-            "name": "基于Python机器学习-随机森林的数据分析与预测",
-            "type": "File",
-            "path": "https://github.com/miku993/ML---Random-Forest---Erbin-Phenomenon",
-            "children": []
-        },
-        {
-            "id": 249189225,
-            "name": "python opencv车道线检测与预警  斑马线检测",
-            "type": "File",
-            "path": "https://github.com/VERMANs/car_lane_detection",
-            "children": []
-        },
-        {
-            "id": 159931443,
-            "name": "Python机器学习预测分析算法",
-            "type": "File",
-            "path": "https://github.com/cindymiaomiao/predictive-analysis-execises",
-            "children": []
-        },
-        {
-            "id": 182031785,
-            "name": "代码可并型段预测Python源码",
-            "type": "File",
-            "path": "https://github.com/wsl071134/CodePreprocessor",
-            "children": []
-        },
-        {
-            "id": 193430854,
-            "name": "学生总成绩预测 KNN算法   python",
-            "type": "File",
-            "path": "https://github.com/Concealed0/PythonForecastGrade",
-            "children": []
-        },
-        {
-            "id": 384063279,
-            "name": "本系统以树莓派3B+为嵌入式计算平台，与CSI摄像头、二自由度旋转云台结合，主体使用Python和PHP编程，应用I2C通信与OpenCV等前沿技术，通过Frp内网穿透打通内外网数据传输，实现具有远程实时视频监控、运动检测及画面截图邮件预警、远程控制云台摄像头转动、监控画面截取及视频录制、Web端在线预览视频/图片、下载或删除文件等功能的远程流媒体传输系统。",
-            "type": "File",
-            "path": "https://github.com/haliry/Intelligent-remote-video-monitoring",
-            "children": []
-        },
-        {
-            "id": 797711374,
-            "name": "基于python实现的链路预测基本框架，链路预测方法SMS和maxSMS",
-            "type": "File",
-            "path": "https://github.com/caizio/link_prediction",
-            "children": []
-        },
-        {
-            "id": 591147377,
-            "name": "东北大学Python数据分析作业，泰坦尼克生还者预测",
-            "type": "File",
-            "path": "https://github.com/Paper-blue/NEU_Python_titanic",
+            "path": "https://github.com/bysj2022NB/python25_stock_lstm_tensorflow_predict",
+            "download_link": "https://api.github.com/repos/bysj2022NB/python25_stock_lstm_tensorflow_predict/zipball/main",
             "children": []
         },
         {
@@ -2067,49 +1553,55 @@
             "name": "✨基于卷积神经网络(CNN)和CIFAR10数据集的图像智能分类 Web 应用 Intelligent Image Classification Web Applcation based on Convolutional Neural Networks and the CIFAR10 Dataset✨🚩 (with README in English) 📌含在线demo：图像分类可视化界面，快速部署深度学习模型为网页应用，Web预测系统，决策支持系统(DSS)，图像分类前端网页，图像分类Demo展示-Pywebio。AI人工智能图像分类-Pytorch。CIFAR10数据集，小模型。100%纯Python代码，轻量化，易复现 ",
             "type": "File",
             "path": "https://github.com/bytesc/Image_Classify_WebGUI_CIFAR10",
+            "download_link": "https://api.github.com/repos/bytesc/Image_Classify_WebGUI_CIFAR10/zipball/main",
             "children": []
         },
         {
-            "id": 749045698,
-            "name": "用python处理，xgboost模型，做药品预测",
+            "id": 460920766,
+            "name": "计算机毕业设计之Spark+Flink+Python考研预测分析 考研院校推荐系统 考研大数据分析大屏",
             "type": "File",
-            "path": "https://github.com/fireWinters/drug-forecast2024",
+            "path": "https://github.com/bysj2022NB/spark_flink_kaoyan_rec_nb2022",
+            "download_link": "https://api.github.com/repos/bysj2022NB/spark_flink_kaoyan_rec_nb2022/zipball/main",
             "children": []
         },
         {
-            "id": 830312168,
-            "name": "计算机毕业设计PySpark+Hadoop中国城市交通分析与预测 Python交通预测 Python交通可视化 客流量预测 交通大数据 机器学习 深度学习 人工智能 大数据毕业设计 知识图谱",
+            "id": 189387903,
+            "name": "百度点石大赛的预测算法",
             "type": "File",
-            "path": "https://github.com/bysj2022NB/pyspark2025_tarffic_predict_echarts",
+            "path": "https://github.com/whbwhb521/python",
+            "download_link": "https://api.github.com/repos/whbwhb521/python/zipball/master",
             "children": []
         },
         {
-            "id": 282836621,
-            "name": "Python数据分析：股票量化分析之金叉择时策略和Prophet加性预测模型",
+            "id": 597635181,
+            "name": "计算机毕业设计逆天版Python+Spark智慧城市交通大数据 交通流量预测 交通爬虫 地铁客流量分析 大数据毕业设计 大数据毕设 深度学习 机器学习",
             "type": "File",
-            "path": "https://github.com/majiajue/python-stock-analysis",
+            "path": "https://github.com/bysj2022NB/traffic_predict_nb2099_bigdata888",
+            "download_link": "https://api.github.com/repos/bysj2022NB/traffic_predict_nb2099_bigdata888/zipball/main",
             "children": []
         },
         {
-            "id": 299269920,
-            "name": "根据用户数据以及消费行为数据,使用Python建立分类模型,通过评估客户流失的风险来预测客户流转情况,找到对客户影响较大的因素,进而挽留客户",
+            "id": 60083193,
+            "name": "通过训练预测并减小缺口",
             "type": "File",
-            "path": "https://github.com/wenwen116/churn",
+            "path": "https://github.com/hotman1986/python",
+            "download_link": "https://api.github.com/repos/hotman1986/python/zipball/master",
             "children": []
         },
         {
-            "id": 299270767,
-            "name": "根据用户数据以及消费行为数据，使用Python建立线性回归模型，预测用户的消费金额变化，找到对用户消费影响较大的因素",
+            "id": 269959972,
+            "name": "基于高德地图API，开发了一个能自动爬取、处理、分析、预测车速数据的软件，用的python编程语言，pyqt5",
             "type": "File",
-            "path": "https://github.com/wenwen116/baojie",
+            "path": "https://github.com/chenguoqiang-transportation-boy/speed_predict",
+            "download_link": "https://api.github.com/repos/chenguoqiang-transportation-boy/speed_predict/zipball/master",
             "children": []
         },
         {
-            "id": 73039160,
-            "name": "一个 react + redux 的完整项目 和 个人总结",
+            "id": 146009168,
+            "name": "基于FPGA的癫痫预测平台设计Design of epilepsy prediction platform based on FPGA",
             "type": "File",
-            "path": "https://github.com/bailicangdu/react-pxq",
-            "download_link": "https://api.github.com/repos/bailicangdu/react-pxq/zipball/master",
+            "path": "https://github.com/xlxwalex/NeuronCare",
+            "download_link": "https://api.github.com/repos/xlxwalex/NeuronCare/zipball/master",
             "children": []
         }
     ]

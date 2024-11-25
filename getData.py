@@ -3,7 +3,7 @@ import json
 
 
 def search_github_repositories(keyword):
-    url = f"https://api.github.com/search/repositories?q={keyword}&per_page=1"
+    url = f"https://api.github.com/search/repositories?q={keyword}&per_page=200"
     response = requests.get(url)
     if response.status_code == 200:
         return response.json()["items"]
