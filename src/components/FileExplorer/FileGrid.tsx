@@ -12,12 +12,14 @@ import DownloadModal from '../Modals/DownloadModal';
 import QRCodeLoginModal from '../Modals/QRCodeLoginModal';
 
 import FileGridSkeleton from './FileGridSkeleton';
+import Code_shit from './code.svg'; // 假设你的 SVG 文件在同一目录下
 
 const FileItemComponent: React.FC<{ item: FileItem | SearchResult; onClick: () => void }> = React.memo(({ item, onClick }) => {
   const getIcon = () => {
     return item.type.toLowerCase() === 'folder' ? 
       <Folder className="text-blue-500" size={40} /> : 
-      <Code className="text-orange-500" size={40} />;
+      <img src={Code_shit} alt="My SVG" width="40" height="40" />
+      // <Code className="text-orange-500" size={40} />;
   };
 
   return (

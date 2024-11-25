@@ -34,9 +34,9 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSelect, onSearch }) => {
   };
 
   // Use React.useEffect directly to avoid potential naming conflicts
-  React.useEffect(() => {
-    handleSearch(debouncedQuery);
-  }, [debouncedQuery]);
+  // React.useEffect(() => {
+  //   handleSearch(debouncedQuery);
+  // }, [debouncedQuery]);
 
   const handleSelect = (result: SearchResult) => {
     if (result.matchType === 'content') {

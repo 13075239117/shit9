@@ -18,7 +18,7 @@ const ChatAssistant: React.FC = () => {
     // Simulate response
     setTimeout(() => {
       setMessages(prev => [...prev, {
-        text: '感谢您的咨询！请联系QQ：123456获取下载码。',
+        text: '感谢您的咨询！请联系QQ：935764227。',
         isUser: false
       }]);
     }, 1000);

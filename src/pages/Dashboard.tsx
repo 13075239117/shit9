@@ -5,7 +5,7 @@ import FileGrid from '../components/FileExplorer/FileGrid';
 import ChatAssistant from '../components/Chat/ChatAssistant';
 import { motion } from 'framer-motion';
 import { SearchResult } from '../api/files';
-
+import NotificationBanner from '../components/UI/NotificationBanner';
 const Dashboard: React.FC = () => {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
@@ -18,8 +18,10 @@ const Dashboard: React.FC = () => {
   return (
     <div className="h-screen flex flex-col bg-background">
       <Header onSearch={handleSearch} />
+      <NotificationBanner></NotificationBanner>
       <div className="flex flex-1 overflow-hidden relative">
         {/* <Sidebar /> */}
+        
         <motion.main 
           className="flex-1 overflow-y-auto p-6"
           initial={{ opacity: 0 }}
