@@ -19,7 +19,7 @@ const Dashboard: React.FC = () => {
     <div className="h-screen flex flex-col bg-background">
       <Header onSearch={handleSearch} />
       <div className="flex flex-1 overflow-hidden relative">
-        <Sidebar />
+        {/* <Sidebar /> */}
         <motion.main 
           className="flex-1 overflow-y-auto p-6"
           initial={{ opacity: 0 }}
