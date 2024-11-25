@@ -37,7 +37,7 @@ class RepositoryResponse(BaseModel):
 
 
 # 搜索 GitHub 仓库函数
-def search_github_repositories(keyword: str, max_results=500):
+def search_github_repositories(keyword: str, max_results=200):
     results = []
     page = 1
 

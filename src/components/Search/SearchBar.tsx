@@ -15,26 +15,23 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSelect, onSearch }) => {
   const debouncedQuery = useDebounce(query, 1000);
   const searchRef = useRef<HTMLDivElement>(null);
 
-  const handleSearch = useCallback(async (searchQuery: string) => {
-    console.log(12312);
-    
-    if (!searchQuery.trim()) {
+  const handleSearch = async () => {
+    if (!query.trim()) {
       onSearch([], '');
       return;
     }
-    console.log(1231231231231);
-    
+
     setIsLoading(true);
     try {
-      const results = await searchFiles(searchQuery);
-      onSearch(results, searchQuery);
+      const searchResults = await searchFiles(query);
+      onSearch(searchResults, query);
     } catch (error) {
       console.error('Search error:', error);
-      onSearch([], searchQuery);
+      onSearch([], query);
     } finally {
       setIsLoading(false);
     }
-  }, [onSearch]);
+  };
 
   // Use React.useEffect directly to avoid potential naming conflicts
   React.useEffect(() => {
@@ -50,25 +47,46 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSelect, onSearch }) => {
       onSelect(result.id, parentPath);
     }
   };
-
+  const handleKeyPress = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter') {
+      handleSearch();
+    }
+  };
   return (
-    <div ref={searchRef} className="relative" style={{ zIndex: 1000 }}>
+    <div ref={searchRef} className="relative flex items-center gap-2" style={{ zIndex: 1000 }}>
       <div className="relative">
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
+          onKeyPress={handleKeyPress}
           placeholder="搜索文件名或内容..."
           className="w-64 px-4 py-2 pl-10 bg-white/10 text-white placeholder-white/70 rounded-lg focus:outline-none focus:ring-2 focus:ring-white/30"
         />
         <div className="absolute left-3 top-1/2 -translate-y-1/2">
-          {isLoading ? (
-            <Loader2 size={18} className="text-white animate-spin" />
-          ) : (
-            <Search size={18} className="text-white" />
-          )}
+          <Search size={18} className="text-white" />
         </div>
       </div>
+
+      <motion.button
+        whileHover={{ scale: 1.05 }}
+        whileTap={{ scale: 0.95 }}
+        onClick={handleSearch}
+        disabled={isLoading}
+        className="px-4 py-2 bg-white/10 text-white rounded-lg hover:bg-white/20 transition-colors flex items-center gap-2 disabled:opacity-50"
+      >
+        {isLoading ? (
+          <>
+            <Loader2 size={18} className="animate-spin" />
+            搜索中...
+          </>
+        ) : (
+          <>
+            <Search size={18} />
+            搜索
+          </>
+        )}
+      </motion.button>
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import React, { useEffect, useState,useCallback } from 'react';
 
 import { useSelector, useDispatch } from 'react-redux';
-import { Folder, FileText } from 'lucide-react';
+import { Folder, FileText,Code } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { fetchFiles, FileItem, SearchResult } from '../../api/files';
@@ -17,7 +17,7 @@ const FileItemComponent: React.FC<{ item: FileItem | SearchResult; onClick: () =
   const getIcon = () => {
     return item.type.toLowerCase() === 'folder' ? 
       <Folder className="text-blue-500" size={40} /> : 
-      <FileText className="text-orange-500" size={40} />;
+      <Code className="text-orange-500" size={40} />;
   };
 
   return (
