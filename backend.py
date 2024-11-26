@@ -65,8 +65,8 @@ def format_repositories(repositories):
         Repository(
             id=repo["id"],
             type="File",
-            name=repo.get("description", "无描述"),
-            description=repo.get("description", "无描述"),
+            name=repo.get("description", "无描述") or "无描述",
+            description=repo.get("description", "无描述") or "无描述",
             path=repo["html_url"],
             download_link=f"https://api.github.com/repos/{repo['owner']['login']}/{repo['name']}/zipball/{repo['default_branch']}",
         )
