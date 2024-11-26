@@ -95,7 +95,7 @@ export const searchFiles = async (query: string): Promise<SearchResult[]> => {
   };
 
   try {
-    const response = await fetch('/api/shit/search_repositories?keyword='+query);
+    const response = await fetch('http://127.0.0.1:8889/search_repositories?keyword='+query);
     const data = await response.json();
     // return searchInFiles(data);
     return data
