@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { LogOut, User, Globe, ShoppingBag } from 'lucide-react';
+import { LogOut, User, Globe, ShoppingBag,Info} from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { logout } from '../../store/slices/authSlice';
@@ -10,6 +10,7 @@ import type { RootState } from '../../store/store';
 import { SearchResult } from '../../api/files';
 
 interface HeaderProps {
+  onShowWelcome: () => void;
   onSearch: (results: SearchResult[], query: string) => void;
 }
 
@@ -71,7 +72,7 @@ const PurchaseHistory: React.FC<{ isOpen: boolean; onClose: () => void }> = ({ i
   );
 };
 
-const Header: React.FC<HeaderProps> = ({ onSearch }) => {
+const Header: React.FC<HeaderProps> = ({ onSearch, onShowWelcome }) => {
   const dispatch = useDispatch();
   const { t, i18n } = useTranslation();
   const user = useSelector((state: RootState) => state.auth.user);
@@ -117,7 +118,13 @@ const Header: React.FC<HeaderProps> = ({ onSearch }) => {
             onSelect={handleSearchSelect} 
             onSearch={onSearch}
           />
-
+<button
+            onClick={onShowWelcome}
+            className="flex items-center gap-2 px-4 py-2 rounded-lg text-white hover:bg-white/10 transition-colors duration-200"
+          >
+            <Info size={18} />
+            <span>关于</span>
+          </button>
           <button
             onClick={toggleLanguage}
             className="flex items-center gap-2 px-4 py-2 rounded-lg text-white hover:bg-white/10 transition-colors duration-200"
