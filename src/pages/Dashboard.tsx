@@ -6,10 +6,11 @@ import ChatAssistant from '../components/Chat/ChatAssistant';
 import { motion } from 'framer-motion';
 import { SearchResult } from '../api/files';
 import NotificationBanner from '../components/UI/NotificationBanner';
+import WelcomeModal from '../components/Modals/WelcomeModal';
 const Dashboard: React.FC = () => {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
-
+  const [showWelcome, setShowWelcome] = useState(true);
   const handleSearch = (results: SearchResult[], query: string) => {
     setSearchResults(results);
     setSearchQuery(query);
@@ -17,7 +18,7 @@ const Dashboard: React.FC = () => {
 
   return (
     <div className="h-screen flex flex-col bg-background">
-      <Header onSearch={handleSearch} />
+      <Header onSearch={handleSearch} onShowWelcome={() => setShowWelcome(true)}/>
       <NotificationBanner></NotificationBanner>
       <div className="flex flex-1 overflow-hidden relative">
         {/* <Sidebar /> */}
@@ -34,6 +35,10 @@ const Dashboard: React.FC = () => {
           />
         </motion.main>
       </div>
+      <WelcomeModal 
+        isOpen={showWelcome}
+        onClose={() => setShowWelcome(false)}
+      />
       <ChatAssistant />
     </div>
   );
