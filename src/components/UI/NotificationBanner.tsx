@@ -11,7 +11,7 @@ const NotificationBanner: React.FC = () => {
     >
       <AlertCircle size={20} />
       <span className="text-sm font-medium">
-        有问题，不会做，不会部署等。请联系QQ：935764227
+        有问题，不会做，不会部署等。请联系微信：zhizhi1699999 或者QQ：935764227
       </span>
     </motion.div>
   );

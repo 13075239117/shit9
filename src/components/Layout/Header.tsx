@@ -49,7 +49,8 @@ const MobileMenu: React.FC<{
             
             <div className="space-y-4">
               <button
-                onClick={() => {
+                onClick={(event) => {
+                  event.stopPropagation();
                   onShowWelcome();
                   onClose();
                 }}

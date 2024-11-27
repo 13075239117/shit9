@@ -60,7 +60,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSelect, onSearch }) => {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onKeyPress={handleKeyPress}
-          placeholder="搜索文件名或内容..."
+          placeholder="没有请的请联网搜索"
           className="w-64 px-4 py-2 pl-10 bg-white/10 text-white placeholder-white/70 rounded-lg focus:outline-none focus:ring-2 focus:ring-white/30"
         />
         <div className="absolute left-3 top-1/2 -translate-y-1/2">

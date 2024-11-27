@@ -66,6 +66,7 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">联系方式</h3>
                   <div className="space-y-2">
+                  <p className="text-gray-600">版主：10年代码老农，曾于某大厂任职研发，现与伙伴们共同拼搏中。砥砺前行，不忘初心，共勉</p>
                     <p className="text-gray-600">QQ：935764227</p>
                     <p className="text-gray-600">微信：zhizhi1699999</p>
                     <p className="text-gray-600 text-sm">工作时间：周一至周日 9:00-22:00</p>
