@@ -41,17 +41,17 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
                 <Code className="text-blue-500 flex-shrink-0 mt-1" size={24} />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">项目定制</h3>
-                  <p className="text-gray-600">站主承接各类大作业、网站设计开发、毕业设计等项目，价格实惠，质量保证。</p>
+                  <p className="text-gray-600">站主承接各类大作业、网站设计开发、毕业设计等项目，价格实惠，质量保证。大小项目均可咨询，提供专业的技术支持和解决方案</p>
                 </div>
               </div>
 
-              <div className="flex items-start gap-4">
+              {/* <div className="flex items-start gap-4">
                 <MessageSquare className="text-purple-500 flex-shrink-0 mt-1" size={24} />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">技术咨询</h3>
                   <p className="text-gray-600">大小项目均可咨询，提供专业的技术支持和解决方案。</p>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex items-start gap-4">
                 <Gift className="text-red-500 flex-shrink-0 mt-1" size={24} />
@@ -67,8 +67,8 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">联系方式</h3>
                   <div className="space-y-2">
                   <p className="text-gray-600">版主：10年代码老农，曾于某大厂任职研发，现与伙伴们共同拼搏中。砥砺前行，不忘初心，共勉</p>
-                    <p className="text-gray-600">QQ：935764227</p>
-                    <p className="text-gray-600">微信：zhizhi1699999</p>
+                    <p className="text-gray-600">QQ：935764227&微信：zhizhi1699999</p>
+                    {/* <p className="text-gray-600">微信：zhizhi1699999</p> */}
                     <p className="text-gray-600 text-sm">工作时间：周一至周日 9:00-22:00</p>
                   </div>
                 </div>
