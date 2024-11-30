@@ -59,7 +59,7 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">特别优惠</h3>
                   <p className="text-gray-600">首次合作即可享受优惠价格，长期合作还有更多优惠等着您！</p>
                 </div>
-              </div>``
+              </div>
 
               <div className="flex items-start gap-4">
                 <Phone className="text-yellow-500 flex-shrink-0 mt-1" size={24} />
