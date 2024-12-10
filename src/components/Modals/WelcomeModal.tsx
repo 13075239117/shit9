@@ -11,7 +11,7 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
   return (
     <AnimatePresence>
       {isOpen && (
-        <div className="fixed inset-0 flex items-center justify-center z-50 bg-black/50">
+        <div className="fixed inset-0 flex items-center justify-center z-50 bg-black/50 text-xs sm:text-base">
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -59,7 +59,7 @@ const WelcomeModal: React.FC<WelcomeModalProps> = ({ isOpen, onClose }) => {
                   <h3 className="text-lg font-semibold text-gray-800 mb-1">特别优惠</h3>
                   <p className="text-gray-600">首次合作即可享受优惠价格，长期合作还有更多优惠等着您！</p>
                 </div>
-              </div>``
+              </div>
 
               <div className="flex items-start gap-4">
                 <Phone className="text-yellow-500 flex-shrink-0 mt-1" size={24} />
