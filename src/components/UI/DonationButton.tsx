@@ -39,7 +39,7 @@ const DonationButton: React.FC = () => {
                   <img
                     src={mm_reward_qrcode}
                     alt="微信赞赏码"
-                    className="w-48 h-48 mx-auto rounded-lg shadow-md"
+                    className="w-58 h-58 mx-auto rounded-lg shadow-md"
                   />
                 </div>
                 <p className="text-sm text-gray-600">
