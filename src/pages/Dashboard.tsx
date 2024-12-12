@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Header from '../components/Layout/Header';
 import Sidebar from '../components/Layout/Sidebar';
+import DonationButton from '../components/UI/DonationButton';
 import FileGrid from '../components/FileExplorer/FileGrid';
 import ChatAssistant from '../components/Chat/ChatAssistant';
 import { motion } from 'framer-motion';
@@ -39,6 +40,7 @@ const Dashboard: React.FC = () => {
         isOpen={showWelcome}
         onClose={() => setShowWelcome(false)}
       />
+       <DonationButton />
       <ChatAssistant />
     </div>
   );
