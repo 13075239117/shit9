@@ -95,6 +95,9 @@ export const searchFiles = async (query: string): Promise<SearchResult[]> => {
   };
 
   try {
+    if (query.includes('中国') || query.includes('习近平') || query.includes('中共') || query.includes('共产党')){
+      return []
+    }
     const response = await fetch('/api/shit/search_repositories?keyword='+query);
     const data = await response.json();
     // return searchInFiles(data);
